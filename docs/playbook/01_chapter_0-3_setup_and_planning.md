@@ -12,6 +12,19 @@ chapter: 0-3
 
 ---
 
+## ⚠️ プロジェクトの前提条件 (Prerequisites)
+
+本手法（Rail Coding）は、静的型付け言語の強固な型システムを「AIのガードレール」として物理的に利用し、エラーがある状態での自律進行をブロックする手法である。そのため、高い再現性を確保するために以下の技術スタックを前提とする。
+
+- **TypeScript** (`tsconfig.json` にて `strict: true`, `noImplicitAny: true` 必須)
+- **Node.js エコシステム** (Vite, React, Hono など)
+- **強力なLinter/Formatter** (Biome, ESLint + Prettier 等)
+
+※ PythonやRubyなどの動的型付け言語でも概念の応用は可能だが、「コンパイラによる型エラー」というAIの出力を物理的に縛る壁が弱いため、本プレイブックそのままの再現性は低下する。**TypeScript環境（またはRustやGoなど静的型付け言語）での実践を強く推奨する。**
+
+---
+
+
 ## 0. 序章：AI駆動開発の「特異点」を越える
 
 ### 0.1 人間が書く設計書の「曖昧さ」がAIの生産性を殺す
