@@ -1,0 +1,62 @@
+{
+  "asset_id": "01KK8VD16EX0S5GQDW7P04BYMG",
+  "filename": "bg/シルクロード/mk18x_landscape_fantasy_role_playing_game_visual_novel_backgr_0c33ddb0-14e5-479f-a50a-d0ffeaa5b8c5_2.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "晴れ渡った青空の下、広大な牧草地に囲まれたのどかな村の風景を描いたアニメ風のイラストです。画面手前には、開かれた木製の門があり、中央には土の道が村へと続いています。道の両側には緑の草が生い茂り、小さな白い花が点々と咲いています。奥には、素朴な木造家屋が点在し、それらはそれぞれ低い木製の柵で囲まれています。家々の屋根は茶色やグレーで、壁は白と濃い木の色が特徴的なハーフティンバー様式です。村の周囲には豊かな緑の木々が茂り、遠くにはなだらかな山々が連なり、全体的に穏やかで平和な雰囲気が漂っています。",
+    "description_en": "An anime-style illustration depicting a peaceful village landscape surrounded by vast grasslands under a clear blue sky. In the foreground, an open wooden gate reveals a dirt path leading into the village. Green grass with small white flowers grows on both sides of the path. In the midground, rustic wooden houses are scattered, each enclosed by a low wooden fence. The houses feature brown or gray roofs and distinctive half-timbered walls with white and dark wood elements. Lush green trees surround the village, and gentle mountains stretch into the distance, creating an overall calm and serene atmosphere.",
+    "location": "village",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "traditional European",
+    "objects": [
+      "houses",
+      "wooden fence",
+      "wooden gate",
+      "dirt path",
+      "trees",
+      "clouds",
+      "mountains",
+      "grass",
+      "flowers"
+    ],
+    "colors": [
+      "green",
+      "blue",
+      "brown",
+      "white",
+      "grey"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "村の風景",
+      "のどかな風景",
+      "アニメ背景",
+      "田舎の村",
+      "牧歌的な風景",
+      "ファンタジー背景",
+      "青空",
+      "白い雲",
+      "木造家屋",
+      "ハーフティンバー様式",
+      "緑豊かな自然",
+      "木製の柵",
+      "開かれた門",
+      "土の道",
+      "village landscape",
+      "peaceful scenery",
+      "anime background",
+      "rural village",
+      "idyllic landscape",
+      "fantasy background",
+      "blue sky",
+      "white clouds",
+      "wooden houses",
+      "half-timbered style",
+      "lush nature",
+      "wooden fence",
+      "open gate",
+      "dirt path"
+    ]
+  }
+}

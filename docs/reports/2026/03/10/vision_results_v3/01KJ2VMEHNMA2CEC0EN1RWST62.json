@@ -1,0 +1,41 @@
+{
+  "asset_id": "01KJ2VMEHNMA2CEC0EN1RWST62",
+  "filename": "test/三国志/mk18x_three_kingdoms_female_soldier_extra_Star_Unit_full_body_7bf40120-2633-40b4-8d47-365e8cc5e524_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "茶色の髪を後ろで結んだ若い男性の戦士。落ち着いた表情でまっすぐ前を見据えている。緑がかった薄片鎧（ラメラーアーマー）を身に着け、腰には赤い帯を巻いている。左肩には銀色の肩当てがあり、その上から生成りの長いマントを羽織っている。全体的に東アジアのファンタジー作品に登場するような出で立ちである。",
+    "description_en": "A young male warrior with brown hair tied back. He has a calm expression, looking straight ahead. He is wearing greenish lamellar armor with a red sash around his waist. On his left shoulder is a silver pauldron, over which he drapes a long, off-white cape. His overall appearance is reminiscent of a character from an East Asian fantasy setting.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "brown",
+    "hairStyle": "short, tied-back",
+    "outfit": "East Asian style lamellar armor with a red sash, an off-white cape over the left shoulder, an olive tunic, pants, fingerless gloves, and boots with leg wrappings.",
+    "weapon": null,
+    "expression": "calm",
+    "bodyType": "slim",
+    "objects": [
+      "armor",
+      "cape",
+      "sash"
+    ],
+    "tags": [
+      "warrior",
+      "soldier",
+      "general",
+      "East Asian",
+      "fantasy",
+      "anime",
+      "lamellar armor",
+      "cape",
+      "ponytail",
+      "young man",
+      "戦士",
+      "武将",
+      "鎧",
+      "マント",
+      "ファンタジー",
+      "中華風",
+      "青年"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "description": "ジャンル別エモーションポイント（EP）推移テンプレート",
+  "version": "1.0.0",
+  "updatedAt": "2026-03-09T18:50:00Z",
+  "genres": {
+    "fantasy": {
+      "displayName": "王道ファンタジー",
+      "curveType": "rising",
+      "baseTargetMaxEp": 90,
+      "chapterDistribution": "序盤は世界観提示(20-40)、中盤で危機発生(50-70)、終盤で決戦(80-100)",
+      "vibeWeights": {
+        "calm": 0.3,
+        "tension": 0.3,
+        "climax": 0.3,
+        "shock": 0.1
+      },
+      "pacing": "エピソードの終盤に向けてEPを緩やかに上昇させ、endHookで次話への期待値を最大化する"
+    },
+    "horror": {
+      "displayName": "ホラー・サスペンス",
+      "curveType": "sudden_peak",
+      "baseTargetMaxEp": 100,
+      "chapterDistribution": "不穏な予兆(50-60)を維持しつつ、各章の要所で突発的なピーク(100)を配置",
+      "vibeWeights": {
+        "tension": 0.6,
+        "shock": 0.3,
+        "calm": 0.1
+      },
+      "pacing": "静寂(calm)と緊張(tension)の対比を極端にし、読者の油断を誘ってから最高EPの衝撃(shock)を与える"
+    },
+    "mystery": {
+      "displayName": "本格ミステリー",
+      "curveType": "oscillating",
+      "baseTargetMaxEp": 85,
+      "chapterDistribution": "事件発生(80) → 捜査パート(30-50) → 解明編(90-100) のV字型",
+      "vibeWeights": {
+        "tension": 0.5,
+        "calm": 0.3,
+        "shock": 0.2
+      },
+      "pacing": "ロジックの提示時はEPを抑え(calm)、矛盾の発見や対峙シーンでEPを一気に高める"
+    },
+    "romance": {
+      "displayName": "学園恋愛・ドラマ",
+      "curveType": "wave",
+      "baseTargetMaxEp": 80,
+      "chapterDistribution": "出会い(40) → 葛藤・すれ違い(70) → 和解・成就(90) の波状推移",
+      "vibeWeights": {
+        "tension": 0.4,
+        "relief": 0.3,
+        "climax": 0.2,
+        "calm": 0.1
+      },
+      "pacing": "キャラクターの距離感（緊張と安堵）に合わせてEPを細かく上下させ、感情の揺れを表現する"
+    },
+    "slice-of-life": {
+      "displayName": "日常・旅情",
+      "curveType": "flat_stable",
+      "baseTargetMaxEp": 50,
+      "chapterDistribution": "極端な高低を避け、30-60の範囲で安定した心地よさを維持",
+      "vibeWeights": {
+        "calm": 0.7,
+        "relief": 0.3
+      },
+      "pacing": "風景描写や食事、些細な会話にEPを配分し、ドラマチックな展開よりも「空気感」の維持に注力する"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KJK93SXJDZA4TNZGGDDRHPWZ",
+  "blob_path": "bg/8fe6635b39d0b77a.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_An_enchanted_cas...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": "castle",
+      "timeOfDay": null,
+      "mood": "enchanted",
+      "subtype": "outdoor"
+    },
+    "fromVision": {
+      "description_ja": "崖の上に建つ魔法の城。ゴシック様式の尖塔が連なり、青い魔法の光が基部を照らす。夕焼けの空と広大な景色",
+      "description_en": "Enchanted castle on cliff with gothic spires, blue magical glow at the base, sunset sky with vast landscape",
+      "tags": [
+        "城",
+        "ゴシック",
+        "尖塔",
+        "魔法",
+        "青い光",
+        "夕焼け",
+        "崖",
+        "壮大",
+        "ファンタジー"
+      ],
+      "season": null,
+      "weather": "clear",
+      "architecture": "gothic",
+      "mood": "mystical"
+    },
+    "subtype": "outdoor",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "castle",
+      "城",
+      "enchanted",
+      "outdoor",
+      "屋外",
+      "ゴシック",
+      "尖塔",
+      "魔法",
+      "青い光",
+      "夕焼け",
+      "崖",
+      "壮大"
+    ]
+  }
+}

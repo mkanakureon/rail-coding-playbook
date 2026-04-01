@@ -1,0 +1,44 @@
+{
+  "asset_id": "01KJ2TM9ZQPXKMT2EPJ619PTY7",
+  "filename": "公式アセット/ファンタジー/mk18x_original_fantasy_innkeeper_man_full_body_character_stan_12e0589e-5da3-49a0-9c79-74566ca8b55a_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "親しみやすい笑顔を浮かべた若い男性キャラクター。茶色の短髪と整えられた髭が特徴で、がっしりとした体格をしている。服装は中世ファンタジー風で、クリーム色のシャツの上に紐で編み上げられた茶色の革製ベストを着用している。暗い茶色のズボンをブーツにたくし込み、腰には大きな真鍮の鍵がぶら下がった幅広の革ベルトを締めている。片手を腰に当て、もう片方の手は歓迎するように広げており、商人、宿屋の主人、あるいはギルドのメンバーのような、友好的で頼りになる人物像を思わせる。",
+    "description_en": "A young man with a friendly and welcoming expression. He has short brown hair and a well-groomed beard, with a sturdy, athletic build. His attire is in a medieval fantasy style, consisting of a cream-colored shirt under a laced-up brown leather vest. He wears dark brown trousers tucked into boots and a wide leather belt with a large brass key hanging from it. With one hand on his hip and the other extended in a welcoming gesture, he gives the impression of a friendly and reliable character, such as a merchant, an innkeeper, or a guild member.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "brown",
+    "hairStyle": "short",
+    "outfit": "A cream-colored shirt, a brown leather vest, dark brown trousers, a wide leather belt with a large key, and brown boots.",
+    "weapon": null,
+    "expression": "friendly",
+    "bodyType": "athletic",
+    "objects": [
+      "key",
+      "belt"
+    ],
+    "tags": [
+      "man",
+      "young",
+      "beard",
+      "brown hair",
+      "medieval fantasy",
+      "villager",
+      "merchant",
+      "innkeeper",
+      "guild master",
+      "leather vest",
+      "key",
+      "friendly",
+      "NPC",
+      "男性",
+      "若者",
+      "髭",
+      "茶髪",
+      "中世ファンタジー",
+      "村人",
+      "商人",
+      "宿屋の主人"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "asset_id": "01KJK93TZBCQVXS6VGEWSEEM0E",
+  "filename": "bg/ファンタジー/mk18x_Dark_Souls_style_Realistic_3D_rendering_landscape_a_fan_5f99f9aa-21f3-4411-bcba-928f0c2f439b_2.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "この画像は、雄大な山々を背景に、堂々とした古い石造りの教会が描かれた壮麗な風景です。手前には、草木が生い茂り、岩が点在する荒れた土の小道が教会の方向へと続いています。画面中央に位置する教会は、高くそびえる尖塔とアーチ状の窓が特徴的なゴシック様式で、時の流れを感じさせる石の壁が美しい光を反射しています。教会の周囲や中景には、背の高い針葉樹が点々と生え、遠景には雪をいただいた雄大な山脈が広がっています。空には白い雲が浮かび、日中の明るい光が全体を照らし、清々しく荘厳な雰囲気を作り出しています。",
+    "description_en": "This image presents a majestic landscape featuring a grand, old stone church set against a backdrop of towering, snow-capped mountains. In the foreground, a rugged dirt path winds through grassy, rocky terrain, leading towards the church. The central focus is a Gothic-style stone church with a prominent spire and arched windows, its aged stone walls reflecting the bright daylight beautifully. Scattered pine trees dot the hillside around the church and in the mid-ground. Beyond them, a vast range of majestic, snow-covered mountains dominates the background. The sky above is a mix of bright blue with scattered white clouds, illuminated by the daytime sun, creating a serene and awe-inspiring atmosphere.",
+    "location": "mountains",
+    "timeOfDay": "day",
+    "mood": "serene",
+    "architecture": "Gothic",
+    "objects": [
+      "church",
+      "mountains",
+      "pine trees",
+      "rocks",
+      "path",
+      "grass",
+      "clouds",
+      "spire"
+    ],
+    "colors": [
+      "gray",
+      "white",
+      "green",
+      "brown",
+      "blue",
+      "light yellow"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "教会",
+      "山岳",
+      "雪山",
+      "針葉樹",
+      "自然",
+      "ゴシック建築",
+      "荘厳",
+      "静寂",
+      "景観",
+      "風景",
+      "山道",
+      "石造り",
+      "church",
+      "mountains",
+      "snow-capped mountains",
+      "pine trees",
+      "nature",
+      "Gothic architecture",
+      "majestic",
+      "serene",
+      "landscape",
+      "scenery",
+      "mountain path",
+      "stone building"
+    ]
+  }
+}

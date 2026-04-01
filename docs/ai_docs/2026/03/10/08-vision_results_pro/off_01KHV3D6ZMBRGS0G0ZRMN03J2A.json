@@ -1,0 +1,45 @@
+{
+  "asset_id": "off_01KHV3D6ZMBRGS0G0ZRMN03J2A",
+  "filename": "mk18x_cinematic_realism_historical_drama_style_soft_lighting__0e48bc13-201c-4dd7-ba51-46e2b7feccca_0.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "荘厳な中国の宮殿の玉座の間。太く赤い漆塗りの柱が立ち並び、その土台と天井には金色の豪華な装飾が施されている。部屋の奥には、階段で上がった壇上に、精巧に彫刻された玉座が鎮座している。格子窓から差し込む光が、磨かれた黒い床に反射し、厳粛で威厳のある雰囲気を醸し出している。全体的に赤、金、黒を基調とした、重厚で豪華な空間である。",
+    "description_en": "A magnificent throne room inside a Chinese imperial palace. Massive, red lacquered pillars with ornate golden bases line the hall. At the far end, an intricately carved throne sits on a raised dais, accessed by a set of stairs. Light streams in from latticed windows, casting a glow on one of the pillars and reflecting off the polished, dark floor. The atmosphere is solemn and majestic, dominated by a color palette of red, gold, and black, creating a sense of immense power and luxury.",
+    "location": "palace",
+    "timeOfDay": "day",
+    "mood": "majestic",
+    "architecture": "Traditional Chinese",
+    "objects": [
+      "throne",
+      "pillars",
+      "lanterns",
+      "dais",
+      "polished floor",
+      "latticed windows"
+    ],
+    "colors": [
+      "red",
+      "gold",
+      "black",
+      "brown"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "throne room",
+      "palace",
+      "Chinese",
+      "imperial",
+      "emperor",
+      "majestic",
+      "luxury",
+      "red pillars",
+      "玉座の間",
+      "宮殿",
+      "中国",
+      "皇帝",
+      "荘厳",
+      "豪華",
+      "赤い柱"
+    ]
+  }
+}

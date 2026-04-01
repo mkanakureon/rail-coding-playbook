@@ -1,0 +1,50 @@
+{
+  "asset_id": "01KK8VF2NWS4C34TTSPQ64Y68K",
+  "filename": "bg/学園/mk18x_landscape_school_visual_novel_background_school_rooftop_5f074aa2-243d-458a-a577-2ef0f89a913e_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "晴れやかなアニメ風の背景画像で、屋上または高台にある広々とした屋外プラットフォームが描かれています。この場所は金網フェンスで囲まれており、その向こうには鮮やかな青空と点在する白い積乱雲が見えます。明るい日差しが、フェンスの鮮明な影を淡い色のタイル張りの地面に落とし、快晴の様子を強調しています。全体的に平和で開放的な雰囲気を感じさせます。",
+    "description_en": "A bright and open anime-style background depicting a rooftop or an elevated outdoor platform. The area is enclosed by a chain-link fence, through which a vibrant blue sky filled with scattered white cumulus clouds is visible. Bright sunlight casts sharp, distinct shadows of the fence onto the light-colored, tiled ground, emphasizing the clear weather. The scene evokes a feeling of peacefulness and spaciousness.",
+    "location": "rooftop",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "modern",
+    "objects": [
+      "chain-link fence",
+      "sky",
+      "clouds",
+      "tiled floor",
+      "platform",
+      "shadows"
+    ],
+    "colors": [
+      "blue",
+      "white",
+      "light gray",
+      "gray"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "屋上",
+      "フェンス",
+      "青空",
+      "雲",
+      "日差し",
+      "晴れ",
+      "開放感",
+      "アニメ背景",
+      "広場",
+      "プラットフォーム",
+      "rooftop",
+      "fence",
+      "blue sky",
+      "clouds",
+      "sunlight",
+      "clear weather",
+      "spacious",
+      "anime background",
+      "open space",
+      "platform"
+    ]
+  }
+}

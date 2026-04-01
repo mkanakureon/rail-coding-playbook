@@ -1,0 +1,45 @@
+{
+  "asset_id": "01KJ2VMEHNMA2CEC0EN1RWST62",
+  "filename": "test/三国志/mk18x_three_kingdoms_female_soldier_extra_Star_Unit_full_body_7bf40120-2633-40b4-8d47-365e8cc5e524_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "直立してわずかに右を向いている若い女性の全身イラストで、表情は落ち着いていながらも決意に満ちています。濃い茶色の髪は小さなお団子に結ばれ、顔の周りには数本の毛が垂れています。明るいオリーブグリーンのチュニックの上に、暗い色の鱗状の胸当てと肩当てで構成された伝統的なスタイルの鎧を着用しています。腰には目立つ赤い帯が巻かれています。肩にはクリーム色の長く流れるようなマントがかけられ、膝下まで届いています。下半身は明るい色のゆったりとしたズボンを履き、濃い茶色の巻き付け式のブーツに収められています。手には手袋または包帯が巻かれています。全体的に、古代またはファンタジーの世界の規律ある戦士や守護者の印象を与えます。",
+    "description_en": "A full-body illustration of a young woman standing upright, facing slightly to the right with a neutral yet resolute expression. She has dark brown hair tied back into a small ponytail, with some wisps framing her face. She wears traditional-style armor consisting of a dark, segmented chest plate and metallic shoulder guards over a light olive-green tunic. A prominent red sash is tied around her waist. A long, flowing cream-colored cape is draped over her shoulders, reaching past her knees. Her lower body is clad in light-colored loose trousers tucked into dark brown, wrap-around style boots. Her hands appear to be gloved or wrapped. The overall impression is that of a disciplined warrior or guardian from an ancient or fantasy setting.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "dark brown",
+    "hairStyle": "tied back, short ponytail",
+    "outfit": "Dark segmented armor with metallic pauldrons over an olive-green tunic, a red waist sash, light-colored loose trousers, and dark brown wrap-around boots. A long cream-colored cape is draped over her shoulders.",
+    "weapon": null,
+    "expression": "resolute",
+    "bodyType": "slim",
+    "objects": [
+      "armor",
+      "cape",
+      "sash",
+      "boots"
+    ],
+    "tags": [
+      "戦士",
+      "守護者",
+      "鎧",
+      "マント",
+      "歴史",
+      "ファンタジー",
+      "東洋風",
+      "女性",
+      "兵士",
+      "冒険者",
+      "warrior",
+      "guardian",
+      "armored",
+      "cape",
+      "historical",
+      "fantasy",
+      "Asian-inspired",
+      "female",
+      "soldier",
+      "adventurer"
+    ]
+  }
+}

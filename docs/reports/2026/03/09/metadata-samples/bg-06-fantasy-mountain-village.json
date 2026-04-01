@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJK93T5DSZ5XSF6JF4FAP0E0",
+  "blob_path": "bg/9cadb3381f05f05c.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_landscape_a_fantasy_role_playing_game_A_remote_mountain...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": "mountain",
+      "timeOfDay": null,
+      "mood": "remote",
+      "subtype": "outdoor"
+    },
+    "fromVision": {
+      "description_ja": "雪を頂く山々を背景にした辺境の山村。川が流れ、木造の家々が点在する牧歌的な風景",
+      "description_en": "Remote mountain village with snow-capped peaks, flowing river, scattered wooden houses in a pastoral landscape",
+      "tags": [
+        "山",
+        "村",
+        "川",
+        "雪山",
+        "木造",
+        "牧歌的",
+        "辺境",
+        "自然",
+        "緑"
+      ],
+      "season": "summer",
+      "weather": "clear",
+      "architecture": "medieval",
+      "mood": "peaceful"
+    },
+    "subtype": "outdoor",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "mountain",
+      "山",
+      "remote",
+      "outdoor",
+      "屋外",
+      "村",
+      "川",
+      "雪山",
+      "木造",
+      "牧歌的",
+      "辺境",
+      "自然",
+      "緑"
+    ]
+  }
+}

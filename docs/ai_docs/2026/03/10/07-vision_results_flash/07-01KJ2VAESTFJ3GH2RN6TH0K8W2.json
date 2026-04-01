@@ -1,0 +1,44 @@
+{
+  "asset_id": "01KJ2VAESTFJ3GH2RN6TH0K8W2",
+  "filename": "test/シルクロード/mk18x_pre-modern_mountain_herbalist_woman_from_Japan_full_bod_e82d3535-0a81-4956-a680-dc8e836f77ab_0 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "茶色のミディアムロングのウェーブがかった髪と、柔らかい赤茶色の目を持つ若い女性が全身で立っています。彼女は素朴でアースカラーの服装を身につけており、ゆったりとしたベージュの着物のような上着とスカートを着用し、腰を縄の帯で締めています。前には灰色のエプロンのような布がかけられ、さらに縄が彼女の前腕と下肢に巻かれ、シンプルな編み込みのサンダルを固定しています。彼女の衣服はやや使い古され、泥で汚れているように見え、屋外での生活や旅を示唆しています。左腕には、青々とした緑の植物が入った小さな編み込みの鉢を抱えています。背中には、天然素材で作られたリュックサックが見えます。表情は穏やかで優しく、わずかに微笑んでいるように見えます。",
+    "description_en": "A young woman with medium-long, wavy dark brown hair and soft reddish-brown eyes stands full-body. She wears a rustic, earthy-toned ensemble consisting of a loose, beige, kimono-like top and skirt, cinched at the waist with a rope belt. A grey, apron-like cloth is draped over the front, and more ropes are wrapped around her forearms and lower legs, securing simple, woven sandals on her feet. Her clothing appears somewhat worn and dirt-stained, suggesting a life outdoors or travel. She carries a small, woven pot containing a lush green plant in her left arm. A backpack made of natural materials is visible on her back. Her expression is calm and gentle, with a slight, almost imperceptible smile.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "dark brown",
+    "hairStyle": "medium-long, wavy",
+    "outfit": "Loose, beige, kimono-like top and skirt, tied with rope belt, grey apron-like cloth, rope arm and leg bindings, simple woven sandals. Appears worn and dirt-stained.",
+    "weapon": null,
+    "expression": "gentle, calm",
+    "bodyType": "slim",
+    "objects": [
+      "potted plant",
+      "backpack",
+      "rope bindings"
+    ],
+    "tags": [
+      "女性",
+      "少女",
+      "茶髪",
+      "素朴な服装",
+      "農民風",
+      "旅人",
+      "植物",
+      "自然",
+      "アースカラー",
+      "和風",
+      "woman",
+      "girl",
+      "brown hair",
+      "rustic clothing",
+      "peasant-like",
+      "traveler",
+      "plant",
+      "nature",
+      "earth tones",
+      "kimono-like"
+    ]
+  }
+}

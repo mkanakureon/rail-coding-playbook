@@ -1,0 +1,54 @@
+{
+  "asset_id": "01KJK93SEGYR3K3EDXVYCEYRFY",
+  "blob_path": "bg/86e56793bfd2d144.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_A_quiet_night_plain_under_a_starry_sky_drawn_in_Japanese...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": "plain",
+      "timeOfDay": "night",
+      "mood": "quiet",
+      "subtype": "outdoor"
+    },
+    "fromVision": {
+      "description_ja": "星空の下に広がる静かな平原。満月と天の川が輝き、蛍のような光が草原を照らす。遠くに山々のシルエット",
+      "description_en": "Quiet night plain under starry sky with full moon and milky way, firefly-like lights in grass, mountain silhouettes in distance",
+      "tags": [
+        "夜",
+        "星空",
+        "満月",
+        "平原",
+        "蛍",
+        "山",
+        "天の川",
+        "青",
+        "幻想的"
+      ],
+      "season": "summer",
+      "weather": "clear",
+      "architecture": null,
+      "mood": "serene"
+    },
+    "subtype": "outdoor",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "plain",
+      "平原",
+      "night",
+      "夜",
+      "quiet",
+      "outdoor",
+      "屋外",
+      "星空",
+      "満月",
+      "蛍",
+      "山",
+      "天の川",
+      "青",
+      "幻想的"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "asset_id": "01KK8VEDJFBVCK46R0CVTX5NDC",
+  "filename": "bg/ファンタジー/mk18x_landscape_fantasy_role_playing_game_visual_novel_backgr_02c92c97-e144-4cc1-a6c6-40c3b56a3059_0.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "星が輝く夜、魔法のポーションショップの店内。木製の棚には、様々な色や形で光を放つ無数のポーション瓶、古びた本、そして暖かい光を放つキャンドルがぎっしりと並んでいる。天井からは幾何学的な形をした魔法のランタンが吊り下げられ、部屋全体を神秘的な紫と青の光で照らしている。床には魔法陣のような模様の絨毯が敷かれ、カウンターや床には本や羊皮紙が散らばっており、活気のある作業場であることを示唆している。全体的に、幻想的で居心地の良い、謎めいた雰囲気が漂っている。",
+    "description_en": "The interior of a magical potion shop under a starry night sky. Wooden shelves are crammed with countless potion bottles of various colors and shapes, old books, and candles casting a warm glow. Magical geometric lanterns hang from the ceiling, illuminating the entire room with a mystical purple and blue light. A rug with a pattern resembling a magic circle is laid on the floor, and books and parchments are scattered on the counter and floor, suggesting a busy workspace. The overall atmosphere is fantastical, cozy, and mysterious.",
+    "location": "potion shop",
+    "timeOfDay": "night",
+    "mood": "mystical",
+    "architecture": "fantasy",
+    "objects": [
+      "potions",
+      "books",
+      "shelves",
+      "candles",
+      "lanterns",
+      "rug",
+      "counter",
+      "jars"
+    ],
+    "colors": [
+      "purple",
+      "blue",
+      "yellow",
+      "brown",
+      "black"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "magic",
+      "potion",
+      "alchemy",
+      "shop",
+      "night",
+      "fantasy",
+      "books",
+      "candles",
+      "starry sky",
+      "mystical",
+      "workshop",
+      "魔法",
+      "ポーション",
+      "錬金術",
+      "店",
+      "夜",
+      "ファンタジー",
+      "本",
+      "キャンドル",
+      "星空",
+      "神秘的",
+      "アトリエ"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "asset_id": "01KJK93T5ZAE0CPSAHQ2VDWQH0",
+  "blob_path": "bg/6f66b14de7e5d9b7.webp",
+  "category": "bg",
+  "subcategory": "中国短尺ドラマ",
+  "filename": "bg/中国短尺ドラマ/mk18x_small_cozy_bedroom_modest_Japanese_apartment_simple_bed...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "chinese_drama",
+      "location": "bedroom",
+      "timeOfDay": null,
+      "mood": "cozy",
+      "subtype": "indoor"
+    },
+    "fromVision": {
+      "description_ja": "質素な日本のアパートの小さな寝室。ベッド、デスク、パソコン、本棚がぎっしり詰まった生活感のある空間。カーテンから光が差す",
+      "description_en": "Small cozy bedroom in modest Japanese apartment with bed, desk, computer, bookshelves packed tightly, curtains letting in light",
+      "tags": [
+        "寝室",
+        "アパート",
+        "デスク",
+        "パソコン",
+        "本棚",
+        "生活感",
+        "質素",
+        "昼",
+        "カーテン"
+      ],
+      "season": null,
+      "weather": null,
+      "architecture": "japanese",
+      "mood": "cozy"
+    },
+    "subtype": "indoor",
+    "tags": [
+      "chinese_drama",
+      "中国ドラマ",
+      "bedroom",
+      "寝室",
+      "cozy",
+      "くつろぎ",
+      "indoor",
+      "室内",
+      "アパート",
+      "デスク",
+      "パソコン",
+      "本棚",
+      "生活感",
+      "質素",
+      "昼",
+      "カーテン"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "asset_id": "01KJK93VGY99REVSRERWRV6BS0",
+  "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_A_beautiful_panora_a5412a55-bf52-4c70-b57a-79b48495b2a4.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "手前には青や紫の色鮮やかな紫陽花が咲き誇る、緑豊かな丘の上からの眺め。眼下には広大な谷が広がり、田園風景や小さな町が見える。遠くには青々とした山々が連なり、澄み切った青空には白い雲が浮かんでいる。全体的にアニメのようなスタイルで描かれた、穏やかで美しい初夏の風景である。",
+    "description_en": "A view from a lush green hilltop, with vibrant blue and purple hydrangeas blooming in the foreground. Below, a vast valley unfolds, revealing a patchwork of fields and a small town. In the distance, verdant mountains stretch across the horizon under a clear blue sky with white, fluffy clouds. It is a peaceful and beautiful early summer landscape depicted in an anime-like style.",
+    "location": "Mountainside",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": null,
+    "objects": [
+      "hydrangeas",
+      "mountains",
+      "hills",
+      "valley",
+      "sky",
+      "clouds",
+      "trees",
+      "fields"
+    ],
+    "colors": [
+      "green",
+      "blue",
+      "purple",
+      "white"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "landscape",
+      "nature",
+      "mountains",
+      "valley",
+      "flowers",
+      "hydrangeas",
+      "anime",
+      "countryside",
+      "summer",
+      "green",
+      "blue sky",
+      "peaceful",
+      "scenic",
+      "風景",
+      "自然",
+      "山",
+      "谷",
+      "花",
+      "紫陽花",
+      "アニメ",
+      "田舎",
+      "夏",
+      "緑",
+      "青空",
+      "穏やか",
+      "絶景"
+    ]
+  }
+}

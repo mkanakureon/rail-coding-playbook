@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KJ2VAC5RJXFY10YKDHD7S057",
+  "blob_path": "ch/2a7e31089ebc0759.webp",
+  "category": "ch-img",
+  "subcategory": "政治",
+  "filename": "test/政治/mk18x_modern_japanese_convenience_store_clerk_full_body_chara...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "politics",
+      "role": "store_clerk",
+      "gender": null,
+      "age": null,
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "コンビニ店員の女性。ショートの茶髪にネイビーのエプロン。明るい笑顔で接客する姿",
+      "description_en": "Female convenience store clerk with short brown hair, navy apron over light blue polo shirt, bright smile",
+      "hairColor": "brown",
+      "hairStyle": "short bob",
+      "outfit": "navy apron over light blue polo shirt, white shoes",
+      "weapon": null,
+      "mood": "cheerful",
+      "bodyType": "average",
+      "background": "white",
+      "tags": [
+        "コンビニ",
+        "店員",
+        "エプロン",
+        "茶髪",
+        "笑顔",
+        "ネイビー",
+        "接客"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "politics",
+      "政治",
+      "store_clerk",
+      "店員",
+      "npc",
+      "NPC",
+      "コンビニ",
+      "エプロン",
+      "茶髪",
+      "笑顔",
+      "ネイビー",
+      "接客"
+    ]
+  }
+}

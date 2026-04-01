@@ -1,0 +1,48 @@
+{
+  "asset_id": "01KK8VEBPDKFHRJ5109EXHXNF3",
+  "filename": "bg/ファンタジー/mk18x_landscape_fantasy_role_playing_game_visual_novel_backgr_07b21cc1-95d4-4f45-bec1-3e439807c63f_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "夜の中世ヨーロッパ風の町並み。石畳の細い路地が奥へと続いている。両脇には石造りと木骨造りの家々が立ち並び、壁に取り付けられたランタンや窓から漏れる暖かい光が、静まり返った通りを照らしている。遠くには、より大きな城か大聖堂のような建物のシルエットが見える。通りは無人で、静かで少し神秘的な雰囲気が漂っている。",
+    "description_en": "A narrow cobblestone alley in a medieval European-style town at night. Stone and half-timbered houses line the quiet street, which is illuminated by the warm glow of lanterns hanging on the walls and light spilling from windows. In the distance, the silhouette of a large castle or cathedral looms against the dark blue sky. The street is empty, creating a peaceful yet slightly mysterious atmosphere.",
+    "location": "street",
+    "timeOfDay": "night",
+    "mood": "peaceful",
+    "architecture": "medieval",
+    "objects": [
+      "cobblestone street",
+      "stone buildings",
+      "lanterns",
+      "wooden doors",
+      "barrels",
+      "castle"
+    ],
+    "colors": [
+      "blue",
+      "purple",
+      "yellow",
+      "grey",
+      "brown"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "medieval",
+      "fantasy",
+      "town",
+      "street",
+      "night",
+      "cobblestone",
+      "lantern",
+      "alley",
+      "Europe",
+      "中世",
+      "ファンタジー",
+      "町",
+      "夜",
+      "路地",
+      "石畳",
+      "ランタン",
+      "ヨーロッパ"
+    ]
+  }
+}

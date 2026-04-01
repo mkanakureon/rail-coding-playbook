@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJK93T1V8JXPJW1XPKWEPYSG",
+  "blob_path": "bg/afec7b89d6a81b04.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_DARK_SOULS_style_A_serene_anime-style_RPG_town_devoid_o...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": null,
+      "timeOfDay": null,
+      "mood": "serene",
+      "subtype": "unknown"
+    },
+    "fromVision": {
+      "description_ja": "穏やかな中世ファンタジーの街並み。ハーフティンバーの建物が並び、花や樽が飾られた石畳の通り。教会の尖塔が見える",
+      "description_en": "Serene medieval RPG town with half-timber houses, flower-decorated cobblestone street, barrels, church spire visible",
+      "tags": [
+        "街",
+        "中世",
+        "ハーフティンバー",
+        "花",
+        "石畳",
+        "樽",
+        "教会",
+        "穏やか",
+        "昼"
+      ],
+      "season": "summer",
+      "weather": "clear",
+      "architecture": "medieval",
+      "mood": "peaceful"
+    },
+    "subtype": "outdoor",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "serene",
+      "静寂",
+      "unknown",
+      "不明",
+      "街",
+      "中世",
+      "ハーフティンバー",
+      "花",
+      "石畳",
+      "樽",
+      "教会",
+      "穏やか",
+      "昼"
+    ]
+  }
+}

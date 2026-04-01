@@ -1,0 +1,54 @@
+{
+  "asset_id": "01KJ2N6AEJ7EWBQFV4ABYAQGVT",
+  "blob_path": "ch/c1361f453053c78d.webp",
+  "category": "ch-img",
+  "subcategory": "ファンタジー",
+  "filename": "mk18x_original_fantasy_lumberjack_man_full_body_character_stand...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "role": "lumberjack",
+      "gender": "man",
+      "age": null,
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "筋肉質で髭のある木こりの男性。毛皮の衣服を身にまとい、右手に斧を持つ。茶色を基調とした力強い立ち絵",
+      "description_en": "Muscular bearded lumberjack man in fur clothing, holding an axe",
+      "hairColor": "brown",
+      "hairStyle": "short",
+      "outfit": "fur vest and leather pants",
+      "weapon": "axe",
+      "mood": "determined",
+      "bodyType": "muscular",
+      "background": "white",
+      "tags": [
+        "木こり",
+        "斧",
+        "筋肉",
+        "髭",
+        "毛皮",
+        "茶色",
+        "力強い"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "lumberjack",
+      "木こり",
+      "man",
+      "男性",
+      "npc",
+      "NPC",
+      "斧",
+      "筋肉",
+      "髭",
+      "毛皮",
+      "茶色",
+      "力強い"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+[2026-03-10T00:31:56.077Z] --- Starting Batch Analysis ---
+[2026-03-10T00:31:56.100Z] Found 561 assets to process.
+[2026-03-10T02:17:17.663Z] Error analyzing 01KJ2TMAS1DWM00N9TJGJ724G1: Unexpected end of JSON input
+[2026-03-10T02:22:25.165Z] Error analyzing 01KJ2TMBP6CD11JNTG5106SVYH: Unexpected end of JSON input
+[2026-03-10T02:28:16.721Z] Error analyzing 01KJ2TMCSYQMR2FR0N05747H4K: Unexpected end of JSON input
+[2026-03-10T02:46:48.085Z] Error analyzing 01KJ2VAEWSB9WSWV893GN5VAP0: Unexpected end of JSON input
+[2026-03-10T03:01:18.467Z] Error analyzing 01KJ2VMGH9SJZCK5N2PQ4ZVHYY: Unexpected end of JSON input
+[2026-03-10T03:03:11.514Z] Error analyzing 01KJ2VMH1AK1AR24TBZJWZPS4N: Unexpected end of JSON input
+[2026-03-10T03:03:35.169Z] Error analyzing 01KK8VJ8QTJ48AC7DESZY7FJYP: Unexpected end of JSON input
+[2026-03-10T03:11:39.590Z] Batch analysis finished. Success: 554/561

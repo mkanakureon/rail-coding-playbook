@@ -1,0 +1,57 @@
+{
+  "asset_id": "01KJ2VACX61F62C3CEAWDJTJ8Q",
+  "blob_path": "ch/37e46867a6b6b597.webp",
+  "category": "ch-img",
+  "subcategory": "政治",
+  "filename": "test/政治/mk18x_modern_japanese_female_policy_analyst_official_full_bod...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "politics",
+      "role": "policy_analyst",
+      "gender": "female",
+      "age": null,
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "女性政策アナリスト。茶色のビジネススーツに白いブラウス。書類フォルダを抱えた知的な佇まい。イヤリングがアクセント",
+      "description_en": "Female policy analyst in brown business suit with white blouse, holding document folder, intellectual presence with earring accents",
+      "hairColor": "brown",
+      "hairStyle": "ponytail",
+      "outfit": "brown skirt suit, white blouse, heels",
+      "weapon": null,
+      "mood": "confident",
+      "bodyType": "slim",
+      "background": "white",
+      "tags": [
+        "政策",
+        "アナリスト",
+        "スーツ",
+        "茶色",
+        "知的",
+        "フォルダ",
+        "ビジネス",
+        "イヤリング"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "politics",
+      "政治",
+      "policy_analyst",
+      "政策アナリスト",
+      "female",
+      "女性",
+      "npc",
+      "NPC",
+      "政策",
+      "アナリスト",
+      "スーツ",
+      "茶色",
+      "知的",
+      "フォルダ",
+      "ビジネス",
+      "イヤリング"
+    ]
+  }
+}

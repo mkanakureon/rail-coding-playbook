@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJ2VMCSS6VAMDZNV6PV3EFZA",
+  "filename": "test/三国志/mk18x_legendary_three_kingdoms_female_strategist_Dawn_Tactici_7336936b-c4c2-4756-bf18-74bd686c5b9b_0 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "黒髪で、精巧な装飾が施された豪華な髪飾りをつけた若い女性のキャラクターです。赤、黒、金、クリーム色を基調とした、伝統的な東洋の豪華な衣装を身につけており、金色の鳳凰や蔓模様の刺繍、赤いリボンや房飾りが特徴的です。ボリュームのある袖と裾を持つローブは、優雅さと威厳を感じさせます。全体的に厳かで優雅な雰囲気を醸し出しており、表情は穏やかで、静かな自信を感じさせます。",
+    "description_en": "A young female character with dark hair styled in an elaborate updo, adorned with an ornate gold headdress. She wears a magnificent, traditional East Asian-inspired gown, predominantly in red, black, gold, and cream. The outfit features intricate golden embroidery of phoenixes and floral motifs, along with flowing red ribbons and tassels. The voluminous sleeves and hem of the robe convey elegance and majesty. Her overall appearance exudes a solemn and graceful aura, with a calm expression that suggests quiet confidence.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long, elaborate updo",
+    "outfit": "elaborate traditional East Asian imperial gown in red, black, gold, and cream with phoenix embroidery, red ribbons, and tassels",
+    "weapon": null,
+    "expression": "calm, serene",
+    "bodyType": "slim",
+    "objects": [
+      "ornate headdress",
+      "traditional gown"
+    ],
+    "tags": [
+      "女性",
+      "若い",
+      "黒髪",
+      "豪華な衣装",
+      "中国風",
+      "東洋風",
+      "鳳凰",
+      "赤と黒",
+      "金色",
+      "伝統的",
+      "優雅",
+      "帝国の",
+      "アニメ",
+      "イラスト",
+      "キャラクター",
+      "Woman",
+      "Young",
+      "Black hair",
+      "Elaborate outfit",
+      "Chinese style",
+      "Oriental",
+      "Phoenix",
+      "Red and black",
+      "Gold",
+      "Traditional",
+      "Elegant",
+      "Imperial",
+      "Anime",
+      "Illustration",
+      "Character"
+    ]
+  }
+}

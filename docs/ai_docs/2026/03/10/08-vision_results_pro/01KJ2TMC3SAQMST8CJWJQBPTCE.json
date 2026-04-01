@@ -1,0 +1,45 @@
+{
+  "asset_id": "01KJ2TMC3SAQMST8CJWJQBPTCE",
+  "filename": "公式アセット/学園/mk18x_original_anime_cool_beauty_student_girl_full_body_chara_06d5a871-c248-4c49-8448-07d50be8b7d1_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "腰まである長い黒髪と印象的な赤い瞳を持つアニメ風の少女。日本の学校の制服を着用している。白い襟付きシャツの上に濃い茶色のカーディガン、さらにその上に紺色のブレザーを羽織っている。首元には青いリボンを結んでいる。下は青と白のチェック柄のプリーツスカート、足元は黒のハイソックスと黒のローファーを履いている。ブレザーのポケットに両手を入れており、表情は無表情で落ち着いた様子で、まっすぐ前を見つめている。",
+    "description_en": "An anime-style girl with long, waist-length black hair and striking red eyes. She is wearing a Japanese school uniform, which consists of a dark brown cardigan over a white collared shirt with a blue ribbon tie, and a dark blue blazer on top. She is wearing a blue and white plaid pleated skirt, black thigh-high socks, and black loafers. Her hands are tucked into her blazer pockets, and she has a calm, neutral expression while looking straight ahead.",
+    "gender": "girl",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long",
+    "outfit": "Japanese school uniform with a dark blue blazer, dark brown cardigan, white collared shirt, blue ribbon, blue plaid skirt, black thigh-high socks, and black loafers.",
+    "weapon": null,
+    "expression": "calm",
+    "bodyType": "slim",
+    "objects": [
+      "blazer",
+      "cardigan",
+      "skirt",
+      "ribbon tie",
+      "thigh-high socks",
+      "loafers"
+    ],
+    "tags": [
+      "anime girl",
+      "school uniform",
+      "long hair",
+      "black hair",
+      "red eyes",
+      "blazer",
+      "cardigan",
+      "pleated skirt",
+      "thigh-high socks",
+      "seifuku",
+      "女子高生",
+      "制服",
+      "黒髪ロング",
+      "赤目",
+      "ブレザー",
+      "カーディガン",
+      "プリーツスカート",
+      "ニーソックス"
+    ]
+  }
+}

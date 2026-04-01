@@ -1,0 +1,51 @@
+{
+  "asset_id": "01KK8VD280TTBGV4K4FAKKEXYP",
+  "filename": "bg/シルクロード/mk18x_landscape_qing_dynasty_silk_road_historical_visual_nove_177ddfb7-549c-44ed-b2c3-dba65270d085_1.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "晴れた日の、伝統的な中国様式の壮大な中庭。中央には長方形の池があり、中央と四隅に配置された石造りの噴水から水が湧き出ている。池の周りは手入れの行き届いた芝生と、大きな石のタイルで舗装された通路が広がっている。中庭を囲むように、青い瓦屋根と朱色の柱を持つ回廊付きの建物が立ち並ぶ。柳や松など緑豊かな木々や低木が随所に植えられており、穏やかな雰囲気を醸し出している。澄んだ青空には白い雲が浮かび、木々の影が地面に落ちて、静かで平和な一日を物語っている。",
+    "description_en": "A magnificent courtyard of a traditional Chinese-style building on a bright, sunny day. At the center lies a rectangular pond with a central fountain and smaller fountains at its corners, all made of stone. The pond is framed by well-kept green lawns and pathways paved with large stone tiles. Surrounding the courtyard are classic buildings featuring blue-tiled roofs and vermilion pillars, connected by open corridors. The garden is lush with a variety of trees and shrubs, including a prominent weeping willow and pine trees, which add to the serene atmosphere. The clear blue sky with scattered white clouds and the distinct shadows cast by the trees on the ground indicate a peaceful and tranquil day.",
+    "location": "palace courtyard",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "Traditional Chinese",
+    "objects": [
+      "buildings",
+      "pond",
+      "fountains",
+      "trees",
+      "stone pavement",
+      "lawn"
+    ],
+    "colors": [
+      "green",
+      "blue",
+      "grey",
+      "white",
+      "brown"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "Chinese style",
+      "palace",
+      "garden",
+      "courtyard",
+      "pond",
+      "fountain",
+      "sunny",
+      "daytime",
+      "scenery",
+      "anime",
+      "中華風",
+      "宮殿",
+      "庭園",
+      "中庭",
+      "池",
+      "噴水",
+      "晴れ",
+      "昼",
+      "風景",
+      "アニメ"
+    ]
+  }
+}

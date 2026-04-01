@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJK93SXJDZA4TNZGGDDRHPW0",
+  "blob_path": "bg/0ab7962d0f66160b.webp",
+  "category": "bg",
+  "subcategory": "中国短尺ドラマ",
+  "filename": "bg/中国短尺ドラマ/mk18x_luxury_CEO_office_interior_floor-to-ceiling_glass_windo...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "chinese_drama",
+      "location": "office",
+      "timeOfDay": null,
+      "mood": "luxury",
+      "subtype": "indoor"
+    },
+    "fromVision": {
+      "description_ja": "高級CEOオフィス。床から天井までのガラス窓から都市のスカイラインが一望。木製の大きなデスクとレザーチェア。開放的で洗練された空間",
+      "description_en": "Luxury CEO office with floor-to-ceiling glass windows overlooking city skyline, large wooden desk and leather chair, spacious refined space",
+      "tags": [
+        "オフィス",
+        "CEO",
+        "高級",
+        "ガラス窓",
+        "都市",
+        "デスク",
+        "レザーチェア",
+        "開放的",
+        "ビジネス"
+      ],
+      "season": null,
+      "weather": "clear",
+      "architecture": "modern",
+      "mood": "luxury"
+    },
+    "subtype": "indoor",
+    "tags": [
+      "chinese_drama",
+      "中国ドラマ",
+      "office",
+      "オフィス",
+      "luxury",
+      "高級",
+      "indoor",
+      "室内",
+      "CEO",
+      "ガラス窓",
+      "都市",
+      "デスク",
+      "レザーチェア",
+      "開放的",
+      "ビジネス"
+    ]
+  }
+}

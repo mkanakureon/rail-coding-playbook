@@ -1,0 +1,16 @@
+{
+  "name": "kaedevn-dev-server",
+  "description": "kaedevnアーキテクチャと実装の重要ポイント（.ks→JSON→OpRunner、スクリプト形式、アセット配信）",
+  "version": "1.0.0",
+  "triggers": [
+    "kaedevn",
+    "プレビュー",
+    "コンパイラ",
+    "スクリプト形式",
+    ".ks",
+    "OpRunner",
+    "アセット",
+    "エディター実装",
+    "インタプリタ"
+  ]
+}

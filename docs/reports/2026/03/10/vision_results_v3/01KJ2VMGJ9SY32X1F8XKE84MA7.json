@@ -1,0 +1,40 @@
+{
+  "asset_id": "01KJ2VMGJ9SY32X1F8XKE84MA7",
+  "filename": "test/BL/mk18x_handsome_anime_boy_BL_style_full_body_character_standin_9b6942b7-f645-48e5-b755-09758333f66b_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "黒髪で長身の若い男性。白いサテンのようなドレスシャツのボタンを大きく開け、鍛え上げられた胸筋と腹筋を大胆に見せている。黒いスラックスを履き、右手をポケットに入れ、自信に満ちたクールな表情で立っている。その姿は非常に魅力的で色気がある。",
+    "description_en": "A tall, handsome young man with messy black hair and dark, reddish eyes. He wears a white, satin-like dress shirt that is left open, revealing his well-defined muscular chest and abs. He is dressed in black trousers with a black belt and matching black dress shoes. Standing with one hand in his pocket, he has a cool and confident expression, exuding an alluring and charismatic aura.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "short and messy",
+    "outfit": "An open white dress shirt, black trousers with a black belt, and black dress shoes.",
+    "weapon": null,
+    "expression": "confident",
+    "bodyType": "muscular",
+    "objects": [
+      "white shirt",
+      "black trousers"
+    ],
+    "tags": [
+      "handsome man",
+      "ikemen",
+      "male",
+      "black hair",
+      "white shirt",
+      "abs",
+      "muscular",
+      "cool",
+      "confident",
+      "anime",
+      "男性",
+      "黒髪",
+      "白シャツ",
+      "腹筋",
+      "筋肉質",
+      "クール",
+      "イケメン"
+    ]
+  }
+}

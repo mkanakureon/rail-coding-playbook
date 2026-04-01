@@ -1,0 +1,57 @@
+{
+  "asset_id": "01KJ2N6C0RJWFPAXC6HMQR7PVJ",
+  "blob_path": "ch/592d5c11346f88be.webp",
+  "category": "ch-img",
+  "subcategory": "ファンタジー",
+  "filename": "mk18x_original_fantasy_cursed_princess_boss_full_body_character...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "role": "princess",
+      "gender": null,
+      "age": null,
+      "trait": "cursed",
+      "subtype": "main"
+    },
+    "fromVision": {
+      "description_ja": "呪われた姫。黒いゴシック調のドレスにトゲのような装飾。紫と黒を基調とした威圧的な雰囲気",
+      "description_en": "Cursed princess in dark gothic dress with spike-like ornaments, purple and black color scheme",
+      "hairColor": "dark purple",
+      "hairStyle": "long wavy",
+      "outfit": "black gothic dress with spikes and ornate details",
+      "weapon": null,
+      "mood": "ominous",
+      "bodyType": "slim",
+      "background": "white",
+      "tags": [
+        "呪い",
+        "姫",
+        "ゴシック",
+        "黒",
+        "紫",
+        "ドレス",
+        "トゲ",
+        "威圧的",
+        "ボス"
+      ]
+    },
+    "subtype": "main",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "princess",
+      "姫",
+      "cursed",
+      "main",
+      "主要キャラ",
+      "呪い",
+      "ゴシック",
+      "黒",
+      "紫",
+      "ドレス",
+      "トゲ",
+      "威圧的",
+      "ボス"
+    ]
+  }
+}

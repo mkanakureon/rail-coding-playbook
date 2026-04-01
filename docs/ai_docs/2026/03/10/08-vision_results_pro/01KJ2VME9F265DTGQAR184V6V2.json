@@ -1,0 +1,43 @@
+{
+  "asset_id": "01KJ2VME9F265DTGQAR184V6V2",
+  "filename": "test/三国志/mk18x_legendary_three_kingdoms_female_general_Azure_Moon_full_ec803756-919a-4d74-ba10-50df5a37e7cd_1 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "黒い長髪を高い位置でポニーテールに結んだ、若い女性の戦士。彼女は金色の精巧な装飾が施された、暗色の全身鎧を身に着けています。鎧の上からは、床まで届く鮮やかなロイヤルブルーのマントを羽織っており、その裾には金色の大きな鳳凰のような鳥の模様が描かれています。表情は落ち着いており、自信と気品が感じられます。全体として、東洋風ファンタジーの世界から来た高貴で力強いキャラクターという印象です。",
+    "description_en": "A young female warrior with long black hair tied in a high ponytail. She is wearing dark, full-body armor with intricate golden embellishments. Over the armor, she wears a long, vibrant royal blue cape that reaches the floor, featuring a large golden phoenix-like bird motif at the bottom. Her expression is calm, exuding confidence and nobility. Overall, she gives the impression of a powerful and noble character from an Eastern-style fantasy setting.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long ponytail",
+    "outfit": "Intricate dark armor with gold details, and a long, royal blue cape with a golden phoenix design.",
+    "weapon": null,
+    "expression": "confident",
+    "bodyType": "slim",
+    "objects": [
+      "armor",
+      "cape"
+    ],
+    "tags": [
+      "女性",
+      "戦士",
+      "鎧",
+      "マント",
+      "黒髪",
+      "長髪",
+      "ポニーテール",
+      "ファンタジー",
+      "東洋風",
+      "鳳凰",
+      "woman",
+      "warrior",
+      "armor",
+      "cape",
+      "black hair",
+      "long hair",
+      "ponytail",
+      "fantasy",
+      "Eastern fantasy",
+      "phoenix"
+    ]
+  }
+}

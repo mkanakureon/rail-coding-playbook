@@ -1,0 +1,60 @@
+{
+  "asset_id": "01KK8VEBPDKFHRJ5109EXHXNF3",
+  "filename": "bg/ファンタジー/mk18x_landscape_fantasy_role_playing_game_visual_novel_backgr_07b21cc1-95d4-4f45-bec1-3e439807c63f_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "夜の石畳の通りを捉えた、ファンタジー風の背景画像です。両側には石造りと木造の建物が立ち並び、窓や壁に設置されたランタンから暖かい光が漏れています。通りは奥に向かって緩やかにカーブしており、遠くには尖塔を持つ大きな建物（城または大聖堂）が朧げに見えます。暗い青色の夜空の下、全体的に静かで神秘的な雰囲気が漂っています。手前には樽や小さな植物が配置されており、細部の描写も丁寧です。",
+    "description_en": "This is a fantasy-style background image depicting a cobblestone street at night. Stone and timber-framed buildings line both sides, with warm light emanating from windows and wall-mounted lanterns. The street gently curves into the distance, where a large, spired building (possibly a castle or cathedral) is vaguely visible under a dark blue night sky. The overall atmosphere is quiet and mysterious. In the foreground, barrels and small plants are placed, showing attention to detail.",
+    "location": "street",
+    "timeOfDay": "night",
+    "mood": "peaceful, mysterious, calm, cozy",
+    "architecture": "medieval fantasy, european old town",
+    "objects": [
+      "buildings",
+      "stone walls",
+      "timber frames",
+      "cobblestone street",
+      "street lanterns",
+      "windows",
+      "doors",
+      "barrels",
+      "plants",
+      "distant castle/cathedral"
+    ],
+    "colors": [
+      "dark blue",
+      "grey",
+      "warm yellow",
+      "orange",
+      "brown",
+      "dark green"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "夜の街",
+      "石畳",
+      "ファンタジー",
+      "中世風",
+      "ランタン",
+      "静か",
+      "神秘的",
+      "背景",
+      "夜景",
+      "建物",
+      "路地",
+      "城下町",
+      "night street",
+      "cobblestone",
+      "fantasy",
+      "medieval",
+      "lanterns",
+      "quiet",
+      "mysterious",
+      "background",
+      "night view",
+      "buildings",
+      "alley",
+      "old town"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KJK93TZBCQVXS6VGEWSEEM0E",
+  "filename": "bg/ファンタジー/mk18x_Dark_Souls_style_Realistic_3D_rendering_landscape_a_fan_5f99f9aa-21f3-4411-bcba-928f0c2f439b_2.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "ゴシック様式の石造りの教会が、草や岩の多い丘の中腹に静かにたたずんでおり、その入り口へと続く曲がりくねった小道が見える。背景には、雪を頂いた雄大で険しい山脈がそびえ立ち、部分的に雲のかかった空の下で風景を支配している。明るい太陽の光が景色を照らし、山々に柔らかな光を投げかけ、静かで孤高の壮大さを感じさせる。針葉樹が前景や山の斜面に点在し、この場所の自然で手付かずの美しさを際立たせている。",
+    "description_en": "A stone Gothic-style church sits peacefully on a grassy, rocky hillside, with a winding path leading to its entrance. In the background, a majestic and rugged mountain range with snow-covered peaks towers over the landscape under a partly cloudy sky. Bright sunlight illuminates the scene, casting soft light on the mountains and creating a sense of serene, isolated grandeur. Evergreen trees are scattered across the foreground and the mountain slopes, adding to the natural, untamed beauty of the location.",
+    "location": "mountains",
+    "timeOfDay": "day",
+    "mood": "serene",
+    "architecture": "Gothic",
+    "objects": [
+      "church",
+      "mountains",
+      "trees",
+      "rocks",
+      "path",
+      "sky"
+    ],
+    "colors": [
+      "gray",
+      "white",
+      "green",
+      "brown",
+      "blue"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "mountain",
+      "church",
+      "Gothic",
+      "landscape",
+      "nature",
+      "snowy mountains",
+      "chapel",
+      "fantasy",
+      "serene",
+      "solitude",
+      "highlands",
+      "path",
+      "山",
+      "教会",
+      "ゴシック",
+      "風景",
+      "自然",
+      "雪山",
+      "礼拝堂",
+      "ファンタジー",
+      "静寂"
+    ]
+  }
+}

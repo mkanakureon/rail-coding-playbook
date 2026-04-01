@@ -1,0 +1,54 @@
+{
+  "asset_id": "01KK8VG6XWDTSN6Z6B7YAT8FME",
+  "filename": "bg/政治/mk18x_landscape_national_security_council_meeting_room_interi_d74679e8-c8da-4aa7-8314-beed773c6a67_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "薄暗く、ハイテクな管制室または会議室の画像です。中央には、多数の回転椅子に囲まれた大きな楕円形の会議用テーブルがあり、各席には開かれたノートパソコンが置かれています。左側の壁には、プログラミングコードや円形のゲージを表示する複数の光る青いモニターがグリッド状に配置されています。右側の壁には、詳細な世界地図が表示された非常に大きなスクリーンがあります。全体的に厳かで戦略的な雰囲気が漂っており、重要な会議や監視作戦が行われていることを示唆しています。照明は人工的で、スクリーンからクールな青い光が放たれています。",
+    "description_en": "This is an image of a dimly lit, high-tech control or conference room. In the center, there is a large, oval-shaped conference table surrounded by numerous swivel chairs, with an open laptop placed at each seat. On the left wall, there is a grid of multiple glowing blue monitors displaying programming code and circular gauges. The right wall features a very large screen showing a detailed world map. The overall atmosphere is serious and strategic, suggesting a crucial meeting or monitoring operation is taking place. The lighting is artificial, casting a cool, blue glow from the screens.",
+    "location": "control room",
+    "timeOfDay": "night",
+    "mood": "strategic",
+    "architecture": "modern",
+    "objects": [
+      "conference table",
+      "swivel chairs",
+      "laptops",
+      "large monitor",
+      "multiple screens",
+      "world map display"
+    ],
+    "colors": [
+      "dark gray",
+      "blue",
+      "cyan",
+      "black"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "管制室",
+      "会議室",
+      "ハイテク",
+      "モニター",
+      "世界地図",
+      "サイバー",
+      "未来",
+      "オフィス",
+      "データ",
+      "戦略",
+      "コマンドセンター",
+      "情報",
+      "control room",
+      "conference room",
+      "high-tech",
+      "monitors",
+      "world map",
+      "cyber",
+      "futuristic",
+      "office",
+      "data",
+      "strategy",
+      "command center",
+      "information"
+    ]
+  }
+}

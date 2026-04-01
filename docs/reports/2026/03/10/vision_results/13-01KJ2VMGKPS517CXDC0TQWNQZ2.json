@@ -1,0 +1,47 @@
+{
+  "asset_id": "01KJ2VMGKPS517CXDC0TQWNQZ2",
+  "filename": "test/BL/mk18x_handsome_anime_boy_BL_style_full_body_character_standin_9b6942b7-f645-48e5-b755-09758333f66b_1 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "白いシャツとパンツを着用した、洗練された雰囲気の男性キャラクター。暗い茶色の短髪で、シャープな顔立ちと金色の瞳が特徴的です。シャツは胸元が大きく開いており、鎖骨が見えるセクシーな着こなしです。左耳には小さな金色のピアスをつけています。片手をポケットに入れ、堂々とした立ち姿で、全体的に清潔感と落ち着きのある印象を与えます。",
+    "description_en": "A sophisticated male character dressed in a pristine white shirt and matching trousers. He has short, dark brown hair, sharp facial features, and captivating golden eyes. His shirt is unbuttoned deeply at the chest, revealing his collarbones and adding a touch of sensuality. A small gold earring is visible on his left ear. He stands confidently with one hand casually in his pocket, exuding an overall impression of cleanliness, calm, and elegance.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "dark brown",
+    "hairStyle": "short",
+    "outfit": "Full white ensemble consisting of a loose, long-sleeved button-up shirt (unbuttoned at the chest) and matching straight-leg trousers, paired with white slip-on shoes.",
+    "weapon": null,
+    "expression": "confident",
+    "bodyType": "slim",
+    "objects": [
+      "earring",
+      "white shirt",
+      "white trousers",
+      "white slip-on shoes"
+    ],
+    "tags": [
+      "男性",
+      "イケメン",
+      "白シャツ",
+      "ホワイトコーデ",
+      "クール",
+      "セクシー",
+      "ショートヘア",
+      "ピアス",
+      "自信",
+      "おしゃれ",
+      "man",
+      "handsome",
+      "white shirt",
+      "white outfit",
+      "cool",
+      "sexy",
+      "short hair",
+      "earring",
+      "confident",
+      "stylish",
+      "anime style",
+      "elegant"
+    ]
+  }
+}

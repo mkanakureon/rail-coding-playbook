@@ -1,0 +1,50 @@
+{
+  "asset_id": "01KJK93TAXBTN0MXK1DXG5HE8M",
+  "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_An_enchanted_cas_19f5c087-1b9a-46e8-8875-b38c593566bb_1.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "崖の上にそびえ立つ壮大なファンタジーの城。城は多数の尖塔を持ち、その一部は神秘的な青いエネルギーの輝きに包まれている。背景には、夕日または朝日で金色に染まった空が広がり、ピンクがかった雲が浮かんでいる。手前には緑豊かな丘と岩が広がり、遠くには山々が霞んで見える。魔法と冒険の世界を思わせる、壮大で幻想的な風景。",
+    "description_en": "A magnificent fantasy castle perched atop a rocky cliff. The castle features numerous spires and is partially enveloped in a mystical blue energy glow. In the background, a golden sky at sunset or sunrise is filled with pink-tinged clouds. The foreground consists of lush green hills and rocks, while distant mountains are visible through the haze. It's a grand and fantastical landscape that evokes a world of magic and adventure.",
+    "location": "Fantasy Kingdom",
+    "timeOfDay": "sunset",
+    "mood": "Fantastical",
+    "architecture": "Gothic Fantasy",
+    "objects": [
+      "castle",
+      "mountains",
+      "clouds",
+      "cliffs",
+      "ruins"
+    ],
+    "colors": [
+      "blue",
+      "gold",
+      "brown",
+      "green",
+      "pink"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "fantasy",
+      "castle",
+      "landscape",
+      "sunset",
+      "magic",
+      "epic",
+      "clouds",
+      "mountains",
+      "anime style",
+      "digital art",
+      "ファンタジー",
+      "城",
+      "風景",
+      "夕日",
+      "魔法",
+      "壮大",
+      "雲",
+      "山",
+      "アニメ風",
+      "デジタルアート"
+    ]
+  }
+}

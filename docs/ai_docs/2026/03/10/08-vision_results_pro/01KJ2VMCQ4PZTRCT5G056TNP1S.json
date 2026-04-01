@@ -1,0 +1,45 @@
+{
+  "asset_id": "01KJ2VMCQ4PZTRCT5G056TNP1S",
+  "filename": "test/三国志/mk18x_legendary_three_kingdoms_female_strategist_Crimson_Tact_7d926104-67b2-47a1-8c1d-eba702d80e5a_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "精巧な髪飾りで結い上げた長い黒髪の若い女性。赤と黒を基調とし、金の鳳凰の刺繍が施された、豪華で多層的な伝統的な中国の衣装（漢服）を身に着けている。衣装は広く流れるような袖と長い裾が特徴。表情は穏やかで威厳があり、高貴な身分であることを示唆している。全体として、中国の皇后や皇女を思わせる優雅さと威厳を放っている。",
+    "description_en": "A young woman with long, black hair styled in an intricate updo adorned with an ornate headdress. She is wearing a luxurious, multi-layered traditional Chinese gown (Hanfu) in a striking color palette of red, black, and gold. The gown features wide, flowing sleeves and a long train, decorated with elaborate embroidery depicting golden phoenixes. Her expression is serene and dignified, suggesting a noble or royal status. Overall, the character exudes an aura of elegance and majesty, reminiscent of a Chinese empress or princess.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long, styled updo",
+    "outfit": "A luxurious multi-layered traditional Chinese gown (Hanfu) in red, black, and gold, with phoenix embroidery and an ornate headdress.",
+    "weapon": null,
+    "expression": "serene and dignified",
+    "bodyType": "slim",
+    "objects": [
+      "ornate gown",
+      "headdress",
+      "earrings",
+      "necklace"
+    ],
+    "tags": [
+      "woman",
+      "女性",
+      "Hanfu",
+      "漢服",
+      "empress",
+      "皇后",
+      "princess",
+      "皇女",
+      "ancient China",
+      "古代中国",
+      "red and black",
+      "赤と黒",
+      "phoenix",
+      "鳳凰",
+      "headdress",
+      "髪飾り",
+      "long black hair",
+      "黒髪ロング",
+      "royalty",
+      "fantasy"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "asset_id": "01KJK93T0WF1HEWY8XRJ59A088",
+  "filename": "bg/ファンタジー/mk18x_Dark_Souls_style_Realistic_3D_rendering_landscape_a_fan_682894fb-e082-4d66-b862-b9015cb9115e_2.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "広大な緑の草原に佇む、古代の石造りの遺跡。遺跡は大きなアーチや柱を持つ神殿か城の一部のように見え、風化して崩れている。背景には険しい岩山がそびえ立ち、空はドラマチックな雲に覆われているが、所々から太陽の光が差し込んでいる。空には鳥の群れが飛んでいる。前景には黄色い野花が咲く草地が広がっている。荘厳で古風、そしてどこか物寂しい雰囲気が漂い、ファンタジーの世界を彷彿とさせる風景である。",
+    "description_en": "Ancient stone ruins stand in a vast green meadow. The ruins, appearing to be part of a temple or castle with large arches and pillars, are weathered and crumbling. A rugged, rocky mountain rises in the background, and the sky is filled with dramatic clouds, with sunlight breaking through in places. A flock of birds is flying in the sky. The foreground features a grassy field dotted with yellow wildflowers. The scene is majestic and ancient, with a somewhat lonely atmosphere, reminiscent of a fantasy world.",
+    "location": "Ruins in a meadow",
+    "timeOfDay": "day",
+    "mood": "epic",
+    "architecture": "medieval",
+    "objects": [
+      "ruins",
+      "mountain",
+      "clouds",
+      "grass",
+      "birds",
+      "wildflowers"
+    ],
+    "colors": [
+      "gray",
+      "green",
+      "white",
+      "yellow"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "ruins",
+      "ancient",
+      "fantasy",
+      "landscape",
+      "mountain",
+      "sky",
+      "clouds",
+      "birds",
+      "meadow",
+      "epic",
+      "medieval",
+      "遺跡",
+      "古代",
+      "ファンタジー",
+      "風景",
+      "山",
+      "空",
+      "雲",
+      "草原",
+      "壮大"
+    ]
+  }
+}

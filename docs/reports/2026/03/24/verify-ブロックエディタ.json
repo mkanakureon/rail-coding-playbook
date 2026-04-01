@@ -1,0 +1,260 @@
+{
+  "screen": "ブロックエディタ",
+  "url": "http://localhost:5176/projects/editor/01KMEMAJ8T5WR2GTGVQ6X17Z7K",
+  "env": "local",
+  "items": [
+    {
+      "no": 1,
+      "item": "ページ読み込み",
+      "result": "OK",
+      "detail": "エラーなしで表示、Loading後に描画完了"
+    },
+    {
+      "no": 2,
+      "item": "ヘッダー",
+      "result": "OK",
+      "detail": "プロジェクト名「browser-verify テスト用」表示"
+    },
+    {
+      "no": 3,
+      "item": "タブナビゲーション",
+      "result": "OK",
+      "detail": "9タブ（ブロック,KS,キャラ,アセット,テンプレ,フロー,キャラ生成,レイアウト,作品設定）"
+    },
+    {
+      "no": 4,
+      "item": "ブロックリスト",
+      "result": "OK",
+      "detail": "START先頭+デフォルトtext1つ"
+    },
+    {
+      "no": 5,
+      "item": "ブロック追加ボタン",
+      "result": "OK",
+      "detail": "「+ ブロック追加」ボタン存在"
+    },
+    {
+      "no": 6,
+      "item": "ページナビゲーター",
+      "result": "OK",
+      "detail": "「1/1」表示、前/次disabled"
+    },
+    {
+      "no": 7,
+      "item": "Undo/Redo初期状態",
+      "result": "OK",
+      "detail": "両方disabled"
+    },
+    {
+      "no": 8,
+      "item": "追加メニュー開閉",
+      "result": "OK",
+      "detail": "クリックでオーバーレイ表示"
+    },
+    {
+      "no": 9,
+      "item": "メニュー: 16種表示",
+      "result": "OK",
+      "detail": "全16ブロックタイプのボタン存在"
+    },
+    {
+      "no": 10,
+      "item": "text追加",
+      "result": "OK",
+      "detail": "テキスト入力欄+複製/削除/移動ボタン"
+    },
+    {
+      "no": 11,
+      "item": "bg追加",
+      "result": "OK",
+      "detail": "背景バッジ+!警告(画像未選択)+変更ボタン"
+    },
+    {
+      "no": 12,
+      "item": "ch追加",
+      "result": "OK",
+      "detail": "キャラバッジ+!警告+キャラ選択DD+位置C+追加ボタン"
+    },
+    {
+      "no": 13,
+      "item": "choice追加",
+      "result": "OK",
+      "detail": "選択肢バッジ+!警告+0個の選択肢+編集ボタン"
+    },
+    {
+      "no": 14,
+      "item": "set_var追加",
+      "result": "OK",
+      "detail": "変数バッジ+変数名TB+演算子DD(=,+=,-=)+値0"
+    },
+    {
+      "no": 15,
+      "item": "if追加",
+      "result": "OK",
+      "detail": "IF文バッジ+!警告+条件未設定+編集ボタン"
+    },
+    {
+      "no": 16,
+      "item": "effect追加",
+      "result": "OK",
+      "detail": "FXバッジ+エフェクト選択9種+強度3+時間500ms"
+    },
+    {
+      "no": 17,
+      "item": "timeline追加",
+      "result": "OK",
+      "detail": "演出TLバッジ+ラベル入力+0tracks+0:05.000"
+    },
+    {
+      "no": 18,
+      "item": "camera追加",
+      "result": "OK",
+      "detail": "カメラバッジ+1000ms表示"
+    },
+    {
+      "no": 19,
+      "item": "overlay追加",
+      "result": "OK",
+      "detail": "OVLバッジ+!警告+表示チェックボックス+変更ボタン"
+    },
+    {
+      "no": 20,
+      "item": "scroll_text追加",
+      "result": "OK",
+      "detail": "スクロールバッジ+テキストエリア"
+    },
+    {
+      "no": 21,
+      "item": "jump追加",
+      "result": "OK",
+      "detail": "ジャンプバッジ+!警告+ページ選択DD(Page1,Page2)"
+    },
+    {
+      "no": 22,
+      "item": "ksc追加",
+      "result": "OK",
+      "detail": "スクリプト追加トースト確認"
+    },
+    {
+      "no": 23,
+      "item": "START不変",
+      "result": "OK",
+      "detail": "常に先頭固定、編集不可"
+    },
+    {
+      "no": 24,
+      "item": "ブロック下移動",
+      "result": "OK",
+      "detail": "2番目→3番目に移動+トースト通知"
+    },
+    {
+      "no": 25,
+      "item": "上移動ボタン状態",
+      "result": "OK",
+      "detail": "先頭ブロックはdisabled"
+    },
+    {
+      "no": 26,
+      "item": "下移動ボタン状態",
+      "result": "OK",
+      "detail": "末尾ブロックはdisabled"
+    },
+    {
+      "no": 27,
+      "item": "Undo (Ctrl+Z)",
+      "result": "OK",
+      "detail": "移動が元に戻りRedoが有効化"
+    },
+    {
+      "no": 28,
+      "item": "テキスト展開表示",
+      "result": "OK",
+      "detail": "textarea+枠色ピッカー表示"
+    },
+    {
+      "no": 29,
+      "item": "テキスト入力",
+      "result": "OK",
+      "detail": "入力テキストがDOMに正しく反映"
+    },
+    {
+      "no": 30,
+      "item": "枠色カラーピッカー",
+      "result": "OK",
+      "detail": "#6366f1デフォルト"
+    },
+    {
+      "no": 31,
+      "item": "折りたたみ表示",
+      "result": "OK",
+      "detail": "閉じるボタンで折りたたみ+省略表示"
+    },
+    {
+      "no": 32,
+      "item": "閉じる/削除ボタン",
+      "result": "OK",
+      "detail": "展開時に両ボタン表示"
+    },
+    {
+      "no": 33,
+      "item": "ページ追加",
+      "result": "OK",
+      "detail": "2ページ目作成+ヘッダー更新"
+    },
+    {
+      "no": 34,
+      "item": "新ページのSTART",
+      "result": "OK",
+      "detail": "Page2にSTART自動生成"
+    },
+    {
+      "no": 35,
+      "item": "ページ切り替え",
+      "result": "OK",
+      "detail": "←前でPage1に戻り全ブロック維持"
+    },
+    {
+      "no": 36,
+      "item": "ジャンプ先更新",
+      "result": "OK",
+      "detail": "DDにPage1,Page2の2件"
+    },
+    {
+      "no": 37,
+      "item": "削除ボタン状態",
+      "result": "OK",
+      "detail": "1ページ時disabled、2ページ時有効"
+    },
+    {
+      "no": 38,
+      "item": "モバイルレイアウト",
+      "result": "OK",
+      "detail": "375x812で単カラムに切り替え"
+    },
+    {
+      "no": 39,
+      "item": "FABボタン",
+      "result": "OK",
+      "detail": "右下に青い+フローティングボタン"
+    },
+    {
+      "no": 40,
+      "item": "モバイルブロックカード",
+      "result": "OK",
+      "detail": "コンパクト表示+3点メニュー"
+    },
+    {
+      "no": 41,
+      "item": "モバイル各ブロック表示",
+      "result": "OK",
+      "detail": "各バッジが正しく表示"
+    },
+    {
+      "no": 42,
+      "item": "デスクトップ復帰",
+      "result": "OK",
+      "detail": "1280x800に戻して正常表示"
+    }
+  ],
+  "timestamp": "2026-03-24T00:54:42.153Z"
+}

@@ -1,0 +1,58 @@
+{
+  "asset_id": "off_01KHV3D6ZMBRGS0G0ZRMN03J2A",
+  "filename": "mk18x_cinematic_realism_historical_drama_style_soft_lighting__0e48bc13-201c-4dd7-ba51-46e2b7feccca_0.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "この画像は、壮麗な古代アジアの宮殿の玉座の間を描いています。中央には、何段もの赤い絨毯の階段で上がった壇上に、金と赤を基調とした豪華な玉座が鎮座しています。部屋の両側には、太く、深紅色の柱が並び、その下部と上部には精巧な金色の装飾が施されています。部屋の奥は暗く、天井もまた複雑な金色の模様で飾られています。左側の窓から差し込む光の筋が、磨き上げられた黒い床に反射して輝き、空間に深みと荘厳な雰囲気を加えています。玉座の壇の左右には、伝統的な提灯のような照明器具が配置されています。全体として、歴史と権威を感じさせる、厳粛で威厳のある豪華な空間です。",
+    "description_en": "This image depicts a magnificent throne room within an ancient East Asian palace. At the center, a luxurious gold and red throne is elevated on a tiered platform accessed by several steps covered in red carpet. Along both sides of the room stand thick, deep red pillars, adorned with intricate golden decorations at their bases and caps. The back of the room is dim, and the ceiling is elaborately decorated with complex golden patterns. Shafts of light, seemingly emanating from windows on the left, reflect brightly on the polished dark floor, adding depth and a sense of solemnity to the space. Traditional lantern-like lighting fixtures are placed on either side of the throne platform. Overall, the atmosphere is solemn, majestic, and luxurious, evoking a strong sense of history and authority.",
+    "location": "palace",
+    "timeOfDay": "day",
+    "mood": "majestic",
+    "architecture": "East Asian Imperial",
+    "objects": [
+      "throne",
+      "pillars",
+      "red carpet",
+      "lanterns",
+      "ornate ceiling",
+      "windows",
+      "tiered platform"
+    ],
+    "colors": [
+      "deep red",
+      "gold",
+      "dark brown",
+      "black"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "宮殿",
+      "玉座の間",
+      "王座",
+      "豪華",
+      "荘厳",
+      "赤い柱",
+      "東洋建築",
+      "古代",
+      "歴史的",
+      "提灯",
+      "金色",
+      "威厳",
+      "室内",
+      "Palace",
+      "Throne room",
+      "Throne",
+      "Luxurious",
+      "Majestic",
+      "Grand",
+      "Red pillars",
+      "East Asian architecture",
+      "Ancient",
+      "Historical",
+      "Lanterns",
+      "Golden",
+      "Imperial",
+      "Indoor"
+    ]
+  }
+}

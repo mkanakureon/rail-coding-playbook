@@ -1,0 +1,40 @@
+{
+  "asset_id": "01KJ2VMGKPS517CXDC0TQWNQZ2",
+  "filename": "test/BL/mk18x_handsome_anime_boy_BL_style_full_body_character_standin_9b6942b7-f645-48e5-b755-09758333f66b_1 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "黒い短髪で金色の瞳を持つ若い男性。全身を白で統一した服装で、ゆったりとした長袖シャツのボタンをいくつか開け、胸元を覗かせている。同じく白いスラックスを履き、右手をポケットに入れている。足元は白いミュールを履いている。左耳には黒いイヤリングをつけており、自信に満ちた穏やかな表情でこちらを見ている。体型は長身でスリム。",
+    "description_en": "A young man with short black hair and golden eyes. He is dressed entirely in white, wearing a loose-fitting long-sleeved shirt with several buttons undone, revealing his chest. He wears matching white trousers with his right hand in the pocket. On his feet are white mules. He wears a black earring on his left ear and has a calm, confident expression as he looks forward. He has a tall and slim build.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "short",
+    "outfit": "white unbuttoned long-sleeve shirt, white trousers, and white slip-on shoes",
+    "weapon": null,
+    "expression": "confident",
+    "bodyType": "slim",
+    "objects": [
+      "earring"
+    ],
+    "tags": [
+      "男性",
+      "man",
+      "イケメン",
+      "handsome",
+      "黒髪",
+      "black hair",
+      "金色の目",
+      "golden eyes",
+      "白い服",
+      "white clothes",
+      "シャツ",
+      "shirt",
+      "ピアス",
+      "earring",
+      "自信ありげ",
+      "confident",
+      "全身像",
+      "full body"
+    ]
+  }
+}

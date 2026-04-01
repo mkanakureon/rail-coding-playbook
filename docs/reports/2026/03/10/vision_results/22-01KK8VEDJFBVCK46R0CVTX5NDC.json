@@ -1,0 +1,56 @@
+{
+  "asset_id": "01KK8VEDJFBVCK46R0CVTX5NDC",
+  "filename": "bg/ファンタジー/mk18x_landscape_fantasy_role_playing_game_visual_novel_backgr_02c92c97-e144-4cc1-a6c6-40c3b56a3059_0.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "この画像は、薄暗く神秘的な雰囲気の魔法の店または錬金術の作業場を描いています。部屋は木製の棚で埋め尽くされており、そこには様々な形や色の薬液が入った無数のガラス瓶が並べられています。一部の瓶は内部から青、紫、緑、オレンジなどの鮮やかな光を放っており、幻想的な輝きを放っています。部屋のあちこちには、積み重ねられた古書や、暖かく揺らめくロウソクの炎が見られ、居心地の良いながらも謎めいた雰囲気を醸し出しています。天井には星空が広がり、さらに魔法陣のような幾何学模様のランタンが吊るされています。部屋の中央には広々とした作業台があり、その上にも瓶や巻物、筆記具が置かれています。床には複雑な模様の敷物が敷かれ、全体的に神秘的で知識に満ちた空間が表現されています。",
+    "description_en": "This image depicts a dimly lit and mysterious magical shop or alchemist's workshop. The room is filled with wooden shelves showcasing countless glass bottles containing liquids of various shapes and colors. Some bottles emit vibrant glows from within, in shades of blue, purple, green, and orange, casting an enchanting luminescence. Throughout the room, piles of ancient books and warm, flickering candlelight add to the cozy yet enigmatic atmosphere. A starry night sky is visible above, with geometric, magic circle-like lanterns hanging down. A spacious workbench occupies the center of the room, also laden with bottles, scrolls, and writing implements. An intricately patterned rug covers the floor, completing the overall depiction of a mystical and knowledge-filled space.",
+    "location": "alchemy shop",
+    "timeOfDay": "night",
+    "mood": "mysterious, magical, peaceful, enchanting, cozy",
+    "architecture": "fantasy, whimsical, rustic",
+    "objects": [
+      "potion bottles",
+      "books",
+      "candles",
+      "wooden shelves",
+      "workbench",
+      "rug",
+      "lanterns",
+      "scrolls",
+      "plants"
+    ],
+    "colors": [
+      "dark blue",
+      "purple",
+      "blue",
+      "orange",
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "魔法の店",
+      "錬金術",
+      "夜",
+      "神秘的",
+      "ファンタジー",
+      "薬瓶",
+      "本",
+      "ロウソク",
+      "書斎",
+      "内装",
+      "Magical shop",
+      "Alchemy",
+      "Night",
+      "Mysterious",
+      "Fantasy",
+      "Potion bottles",
+      "Books",
+      "Candles",
+      "Study room",
+      "Interior"
+    ]
+  }
+}

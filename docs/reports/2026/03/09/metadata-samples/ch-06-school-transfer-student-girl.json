@@ -1,0 +1,55 @@
+{
+  "asset_id": "01KJ2TMANXYMV07G3966X58DP9",
+  "blob_path": "ch/30d5d65685e15d90.webp",
+  "category": "ch-img",
+  "subcategory": "学園",
+  "filename": "公式アセット/学園/mk18x_original_anime_transfer_student_girl_full_body_characte...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "school",
+      "role": "transfer_student",
+      "gender": "girl",
+      "age": null,
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "転校生の少女。長い黒髪に青い瞳。茶色のカーディガンにチェック柄のプリーツスカート。どこかミステリアスな雰囲気",
+      "description_en": "Transfer student girl with long dark hair, blue eyes, brown cardigan over plaid pleated skirt, slightly mysterious aura",
+      "hairColor": "dark gray",
+      "hairStyle": "long straight",
+      "outfit": "brown cardigan, white shirt with bow tie, plaid pleated skirt, knee-high socks",
+      "weapon": null,
+      "mood": "mysterious",
+      "bodyType": "slim",
+      "background": "white",
+      "tags": [
+        "転校生",
+        "黒髪",
+        "青い目",
+        "カーディガン",
+        "制服",
+        "プリーツスカート",
+        "ミステリアス",
+        "少女"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "school",
+      "学園",
+      "transfer_student",
+      "転校生",
+      "girl",
+      "少女",
+      "npc",
+      "NPC",
+      "黒髪",
+      "青い目",
+      "カーディガン",
+      "制服",
+      "プリーツスカート",
+      "ミステリアス"
+    ]
+  }
+}

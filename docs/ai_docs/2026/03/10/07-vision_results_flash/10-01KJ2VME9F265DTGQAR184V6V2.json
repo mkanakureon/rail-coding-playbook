@@ -1,0 +1,38 @@
+{
+  "asset_id": "01KJ2VME9F265DTGQAR184V6V2",
+  "filename": "test/三国志/mk18x_legendary_three_kingdoms_female_general_Azure_Moon_full_ec803756-919a-4d74-ba10-50df5a37e7cd_1 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "黒髪を高い位置でポニーテールにした、若く凛々しい女性の戦士。深い青と黒を基調とした、金色の装飾が施された豪華な鎧を身につけている。肩には力強いパットがあり、胸部や腕、脚にも精巧な防御具が見られる。特に目を引くのは、裾に巨大な金色の鳳凰の刺繍が施された、長くなびく青いマントである。顔は落ち着いており、わずかに決意を秘めた表情をしている。全体的に、東洋のファンタジー世界に登場する高貴な戦士のような印象を与える。",
+    "description_en": "A young, dignified female warrior with long dark hair styled in a high ponytail and bangs framing her face. She wears elaborate fantasy armor primarily in deep blue and black, adorned with intricate gold patterns. Her outfit includes prominent shoulder pads, a detailed chest plate, gauntlets, and leg armor, all suggesting a strong protective design. A striking feature is her long, flowing blue cape, which is dramatically embroidered with a large golden phoenix design on the hem. Her expression is calm and composed, hinting at a quiet determination. She presents the image of a noble warrior from an Eastern fantasy setting.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long, high ponytail with bangs",
+    "outfit": "Elaborate dark blue and black fantasy armor with intricate gold accents, prominent shoulder pads, chest plate, gauntlets, leg armor, and a long flowing blue cape with a large golden phoenix embroidery.",
+    "weapon": null,
+    "expression": "calm and determined",
+    "bodyType": "slim, athletic",
+    "objects": [
+      "armor",
+      "cape"
+    ],
+    "tags": [
+      "女性戦士",
+      "ファンタジー",
+      "鎧",
+      "青いマント",
+      "鳳凰",
+      "東洋風",
+      "高貴",
+      "warrior",
+      "fantasy",
+      "armor",
+      "blue cape",
+      "phoenix",
+      "oriental style",
+      "noble",
+      "elegant"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "asset_id": "01KJ2N6BQGJPK0ZT4TQ9DEAX3X",
+  "blob_path": "ch/ea3bdd76769cc046.webp",
+  "category": "ch-img",
+  "subcategory": "ファンタジー",
+  "filename": "mk18x_original_fantasy_village_chief_elderly_man_full_body...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "role": "village_chief",
+      "gender": "man",
+      "age": "elderly",
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "白髪の老村長。杖をつき、装飾的なローブを身にまとう。穏やかで威厳のある佇まい",
+      "description_en": "Elderly white-haired village chief with walking cane and ornate robes, calm dignified presence",
+      "hairColor": "white",
+      "hairStyle": "long",
+      "outfit": "ornate blue and gold robes",
+      "weapon": null,
+      "mood": "calm",
+      "bodyType": "slim",
+      "background": "white",
+      "tags": [
+        "老人",
+        "白髪",
+        "杖",
+        "ローブ",
+        "村長",
+        "威厳",
+        "穏やか",
+        "金装飾"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "village_chief",
+      "村長",
+      "man",
+      "男性",
+      "elderly",
+      "老人",
+      "npc",
+      "NPC",
+      "白髪",
+      "杖",
+      "ローブ",
+      "威厳",
+      "穏やか",
+      "金装飾"
+    ]
+  }
+}

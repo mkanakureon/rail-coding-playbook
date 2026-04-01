@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": 400,
+    "message": "models/gemini-1.5-flash-001-tuning is not found for CREATE TUNED MODEL at API version v1beta.",
+    "status": "FAILED_PRECONDITION"
+  }
+}

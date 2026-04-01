@@ -1,0 +1,57 @@
+{
+  "asset_id": "01KJK93VGY99REVSRERWRV6BS0",
+  "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_A_beautiful_panora_a5412a55-bf52-4c70-b57a-79b48495b2a4.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "手前には鮮やかな紫色と青色の紫陽花が咲き誇り、豊かな緑の葉に囲まれた美しい風景です。その向こうには、木々に覆われたなだらかな緑の丘と棚田が谷に向かって広がり、遠くには集落が見えます。遠景には穏やかな青い山々が連なり、明るい青空にはふわふわとした白い雲が浮かんでいます。晴れた日の平和な田園風景が広がっています。",
+    "description_en": "A picturesque landscape featuring a foreground filled with vibrant purple and blue hydrangeas and lush green foliage. Beyond, rolling green hills covered in trees and terraced fields descend into a valley where a distant village can be seen. In the far background, serene blue mountains stretch under a bright blue sky dotted with soft white clouds, evoking a peaceful rural atmosphere on a clear day.",
+    "location": "valley",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "none",
+    "objects": [
+      "hydrangeas",
+      "mountains",
+      "trees",
+      "clouds",
+      "fields",
+      "valley",
+      "village"
+    ],
+    "colors": [
+      "green",
+      "blue",
+      "purple",
+      "white"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "自然",
+      "風景",
+      "山",
+      "谷",
+      "紫陽花",
+      "緑",
+      "青空",
+      "田園",
+      "平和",
+      "晴れ",
+      "夏",
+      "初夏",
+      "美しい",
+      "nature",
+      "landscape",
+      "mountains",
+      "valley",
+      "hydrangeas",
+      "green",
+      "blue sky",
+      "rural",
+      "peaceful",
+      "sunny",
+      "summer",
+      "early summer",
+      "beautiful"
+    ]
+  }
+}

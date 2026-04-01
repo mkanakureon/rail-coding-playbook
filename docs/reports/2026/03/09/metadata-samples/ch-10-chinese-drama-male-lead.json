@@ -1,0 +1,54 @@
+{
+  "asset_id": "01KJ2VMGD5313CGTBF7B1J6CGZ",
+  "blob_path": "ch/49395d9e0a035516.webp",
+  "category": "ch-img",
+  "subcategory": "中国短尺ドラマ",
+  "filename": "test/中国短尺ドラマ/mk18x_handsome_chinese_drama_male_lead_full_body_character_st...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "chinese_drama",
+      "role": null,
+      "gender": "male",
+      "age": null,
+      "trait": "handsome",
+      "subtype": "main"
+    },
+    "fromVision": {
+      "description_ja": "ハンサムな中国ドラマ風の主人公男性。全身黒のスーツスタイル。短い黒髪にシャープな顔立ち。自信に満ちた直立姿勢",
+      "description_en": "Handsome Chinese drama male lead in all-black suit, short black hair, sharp features, confident standing posture",
+      "hairColor": "black",
+      "hairStyle": "short neat",
+      "outfit": "black suit with black shirt, black leather shoes",
+      "weapon": null,
+      "mood": "confident",
+      "bodyType": "athletic",
+      "background": "white",
+      "tags": [
+        "ハンサム",
+        "スーツ",
+        "黒",
+        "主人公",
+        "イケメン",
+        "シャープ",
+        "自信"
+      ]
+    },
+    "subtype": "main",
+    "tags": [
+      "chinese_drama",
+      "中国ドラマ",
+      "male",
+      "男性",
+      "handsome",
+      "ハンサム",
+      "main",
+      "主要キャラ",
+      "スーツ",
+      "黒",
+      "主人公",
+      "イケメン",
+      "シャープ",
+      "自信"
+    ]
+  }
+}

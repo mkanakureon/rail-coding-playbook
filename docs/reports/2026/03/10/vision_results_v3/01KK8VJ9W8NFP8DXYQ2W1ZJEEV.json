@@ -1,0 +1,44 @@
+{
+  "asset_id": "01KK8VJ9W8NFP8DXYQ2W1ZJEEV",
+  "filename": "ch/ダークファンタジー/mk18x_DARK_SOULS_style_face_is_dead_fantasy_role_playing_game_c_36df96ab-c029-4ea4-92f9-958a64f8e072 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "白いフード付きのローブをまとった、プラチナブロンドの髪を持つ若い女性。床まで届く流れるような白いガウンを着ており、金色の刺繍や装飾が施されています。腕には金色の模様が入った腕当てを着用しています。彼女は胸の前で、複雑な模様が刻まれた金色の円形の物体（メダリオンか聖遺物）を両手で優しく持っています。目を伏せた表情は穏やかで思慮深く、全体的に神聖で高貴な、あるいは宗教的な人物の印象を与えます。",
+    "description_en": "A young woman with platinum blonde hair, clad in a white, hooded robe. She wears a long, flowing white gown that reaches the floor, accented with gold embroidery and decorations. Her forearms are covered with ornate golden bracers. She gently holds a circular golden object, possibly a medallion or a holy relic with intricate patterns, in her hands in front of her chest. Her expression is serene and contemplative, with her eyes cast downwards, giving the overall impression of a sacred, noble, or religious figure.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "blonde",
+    "hairStyle": "long",
+    "outfit": "A long, white hooded gown with a golden stole and ornate golden bracers.",
+    "weapon": null,
+    "expression": "serene",
+    "bodyType": "slim",
+    "objects": [
+      "golden medallion",
+      "white robe",
+      "golden bracers"
+    ],
+    "tags": [
+      "priestess",
+      "cleric",
+      "healer",
+      "fantasy",
+      "white robe",
+      "hood",
+      "blonde hair",
+      "holy",
+      "serene",
+      "prayer",
+      "女司祭",
+      "聖職者",
+      "ヒーラー",
+      "ファンタジー",
+      "白いローブ",
+      "フード",
+      "金髪",
+      "神聖",
+      "穏やか",
+      "祈り"
+    ]
+  }
+}

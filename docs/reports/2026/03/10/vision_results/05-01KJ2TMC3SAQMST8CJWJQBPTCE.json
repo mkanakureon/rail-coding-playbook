@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJ2TMC3SAQMST8CJWJQBPTCE",
+  "filename": "公式アセット/学園/mk18x_original_anime_cool_beauty_student_girl_full_body_chara_06d5a871-c248-4c49-8448-07d50be8b7d1_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "このキャラクターは、日本の学生服を着た若いアニメの女の子です。長く真っ直ぐな黒髪を持ち、赤い瞳が特徴的です。白いシャツの上に青いリボンタイ、茶色のカーディガン、紺色のブレザーを着用しています。下半身は青いチェック柄のプリーツスカート、濃いグレーのニーハイソックス、そして黒いローファーを履いています。表情は穏やかで、直立したポーズで正面を見ています。",
+    "description_en": "This character is a young anime girl dressed in a Japanese school uniform. She has long, straight black hair and striking red eyes. She is wearing a white shirt with a blue bow tie, a brown cardigan, and a dark blue blazer. For the lower half, she has a blue plaid pleated skirt, dark gray knee-high socks, and black loafers. Her expression is calm, and she stands upright, looking straight ahead.",
+    "gender": "girl",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long",
+    "outfit": "Japanese school uniform consisting of a white shirt, blue bow tie, brown cardigan, dark blue blazer, blue plaid pleated skirt, dark gray knee-high socks, and black loafers.",
+    "weapon": null,
+    "expression": "neutral",
+    "bodyType": "slim",
+    "objects": [
+      "school uniform",
+      "blazer",
+      "cardigan",
+      "skirt",
+      "socks",
+      "loafers"
+    ],
+    "tags": [
+      "アニメ",
+      "女の子",
+      "学生",
+      "制服",
+      "黒髪",
+      "赤目",
+      "長髪",
+      "ブレザー",
+      "カーディガン",
+      "プリーツスカート",
+      "ニーハイソックス",
+      "ローファー",
+      "立ち絵",
+      "anime",
+      "girl",
+      "student",
+      "school uniform",
+      "black hair",
+      "red eyes",
+      "long hair",
+      "blazer",
+      "cardigan",
+      "pleated skirt",
+      "knee-high socks",
+      "loafers",
+      "full body"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KJ2TMANXYMV07G3966X58DP0",
+  "blob_path": "ch/4cd869a7d064ca73.webp",
+  "category": "ch-img",
+  "subcategory": "学園",
+  "filename": "公式アセット/学園/mk18x_modern_bus_driver_man_full_body_character_stand...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "school",
+      "role": "driver",
+      "gender": "man",
+      "age": null,
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "若いバスの運転手の男性。青い制服を着て、明るくフレンドリーな表情",
+      "description_en": "Young bus driver man in blue uniform with friendly cheerful expression",
+      "hairColor": "brown",
+      "hairStyle": "short",
+      "outfit": "blue bus driver uniform with cap",
+      "weapon": null,
+      "mood": "cheerful",
+      "bodyType": "average",
+      "background": "white",
+      "tags": [
+        "運転手",
+        "青",
+        "制服",
+        "笑顔",
+        "バス",
+        "フレンドリー"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "school",
+      "学園",
+      "driver",
+      "運転手",
+      "man",
+      "男性",
+      "npc",
+      "NPC",
+      "青",
+      "制服",
+      "笑顔",
+      "バス",
+      "フレンドリー"
+    ]
+  }
+}

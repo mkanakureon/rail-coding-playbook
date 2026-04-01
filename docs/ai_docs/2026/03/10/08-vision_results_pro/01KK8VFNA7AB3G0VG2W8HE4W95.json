@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KK8VFNA7AB3G0VG2W8HE4W95",
+  "filename": "bg/三国志/mk18x_landscape_three_kingdoms_historical_visual_novel_backgr_8d49ec51-708f-4461-af5f-d3959fde9e79_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "夕暮れ時の活気ある東アジアの市場の風景。石畳の通りには木製の屋台が立ち並び、商人たちが新鮮な果物や野菜、干物などを販売している。買い物客や商人が行き交い、賑やかな雰囲気が漂っている。赤い提灯が吊り下げられ、暖かい光が通りを照らしている。背景には、伝統的な瓦屋根の建物が見え、空は夕焼けの光で染まっている。",
+    "description_en": "A vibrant East Asian marketplace at sunset. Wooden stalls line the cobblestone street, with vendors selling fresh fruits, vegetables, and dried goods. The market is bustling with shoppers and merchants, creating a lively atmosphere. Red paper lanterns hang from the stalls, casting a warm glow on the scene. In the background, traditional buildings with tiled roofs stand against a sky colored by the setting sun.",
+    "location": "street market",
+    "timeOfDay": "sunset",
+    "mood": "lively",
+    "architecture": "traditional East Asian",
+    "objects": [
+      "market stalls",
+      "people",
+      "produce",
+      "lanterns",
+      "wooden barrels",
+      "traditional buildings"
+    ],
+    "colors": [
+      "brown",
+      "orange",
+      "beige",
+      "red",
+      "grey",
+      "blue"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "market",
+      "asia",
+      "traditional",
+      "sunset",
+      "lively",
+      "food",
+      "lanterns",
+      "street",
+      "town",
+      "anime",
+      "scenery",
+      "市場",
+      "アジア",
+      "伝統的",
+      "夕暮れ",
+      "活気",
+      "食べ物",
+      "提灯",
+      "街",
+      "アニメ",
+      "風景"
+    ]
+  }
+}

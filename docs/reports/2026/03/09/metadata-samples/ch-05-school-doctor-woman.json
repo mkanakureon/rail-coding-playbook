@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJ2TMAPKQXG4BFZ3S5DWNQ8R",
+  "blob_path": "ch/9c11903b28a7352e.webp",
+  "category": "ch-img",
+  "subcategory": "学園",
+  "filename": "公式アセット/学園/mk18x_school_clinic_doctor_woman_full_body_character...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "school",
+      "role": "doctor",
+      "gender": "woman",
+      "age": null,
+      "trait": null,
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "若い女性医師。白衣の下に青いワンピースを着用。茶色の髪をまとめている。優しげな表情",
+      "description_en": "Young female doctor in white coat over blue dress, brown hair tied back, gentle expression",
+      "hairColor": "brown",
+      "hairStyle": "ponytail",
+      "outfit": "white medical coat over blue dress",
+      "weapon": null,
+      "mood": "gentle",
+      "bodyType": "slim",
+      "background": "white",
+      "tags": [
+        "医師",
+        "白衣",
+        "青",
+        "茶髪",
+        "ポニーテール",
+        "優しい",
+        "女性"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "school",
+      "学園",
+      "doctor",
+      "医師",
+      "woman",
+      "女性",
+      "npc",
+      "NPC",
+      "白衣",
+      "青",
+      "茶髪",
+      "ポニーテール",
+      "優しい"
+    ]
+  }
+}

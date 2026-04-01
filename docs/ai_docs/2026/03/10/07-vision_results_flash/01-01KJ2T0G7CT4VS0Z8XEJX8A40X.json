@@ -1,0 +1,40 @@
+{
+  "asset_id": "01KJ2T0G7CT4VS0Z8XEJX8A40X",
+  "filename": "公式アセット/ファンタジー/mk18x_original_fantasy_hero_boy_full_body_character_standing__e52d534e-8094-40e5-aff8-b32576474b9b_2 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "緑がかった茶色の短い髪と琥珀色の瞳を持つ若い男性のキャラクター。全身を覆うクリーム色または薄い金のプレートアーマーを着用しており、アーマーには繊細な装飾が施されています。肩には淡い色（オフホワイトや薄い青）のなびくケープを羽織り、腰の左側には鞘に収められた長剣を吊るしています。表情は控えめながらも決意を秘めているように見え、ファンタジー世界に登場する若き騎士や聖騎士のような印象を与えます。",
+    "description_en": "A young male character with short, slightly messy olive green hair and striking amber eyes. He is clad in full plate armor of a light, creamy gold color, adorned with intricate, elegant patterns. A flowing cape, possibly off-white or pale blue, drapes over his shoulders. A longsword in its scabbard is strapped to his left hip. His expression is neutral, suggesting quiet determination or a thoughtful demeanor, evoking the image of a young hero or paladin from a fantasy setting.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "olive green",
+    "hairStyle": "short, messy",
+    "outfit": "full plate armor in light gold/cream with intricate patterns, light-colored flowing cape, dark undergarments, brown leather straps and belts",
+    "weapon": "longsword",
+    "expression": "neutral, determined",
+    "bodyType": "slim, athletic",
+    "objects": [
+      "longsword",
+      "armor",
+      "cape"
+    ],
+    "tags": [
+      "騎士",
+      "若者",
+      "ファンタジー",
+      "鎧",
+      "ケープ",
+      "剣",
+      "男性",
+      "短髪",
+      "knight",
+      "young man",
+      "fantasy",
+      "armor",
+      "cape",
+      "sword",
+      "male",
+      "short hair"
+    ]
+  }
+}

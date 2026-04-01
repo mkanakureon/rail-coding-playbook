@@ -1,0 +1,60 @@
+{
+  "asset_id": "01KJK93T0WF1HEWY8XRJ59A088",
+  "filename": "bg/ファンタジー/mk18x_Dark_Souls_style_Realistic_3D_rendering_landscape_a_fan_682894fb-e082-4d66-b862-b9015cb9115e_2.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "広大な緑の草原に、風化した古代の石造りの遺跡がそびえ立っています。崩れかけたアーチと柱が時の流れを物語り、遠方には険しい山々が連なります。空には厚い雲が広がり、光が雲間から差し込む劇的な光景を作り出しています。多数の鳥が空を舞い、静寂と雄大さ、そしてどこか神秘的な雰囲気を醸し出しています。",
+    "description_en": "An expansive, green grassy plain is dominated by weathered ancient stone ruins. Crumbling arches and broken columns tell tales of time's passage, while rugged mountains stretch into the distance. The sky is filled with dramatic clouds, with rays of light breaking through, creating a dynamic visual. Numerous birds soar overhead, contributing to a serene, majestic, and somewhat mystical atmosphere.",
+    "location": "grassy plain with ruins and mountains",
+    "timeOfDay": "day",
+    "mood": "serene, majestic, ancient, mystical, melancholic",
+    "architecture": "ancient stone ruins, Gothic arches",
+    "objects": [
+      "stone ruins",
+      "arches",
+      "columns",
+      "mountains",
+      "grass",
+      "wildflowers",
+      "birds",
+      "clouds"
+    ],
+    "colors": [
+      "green",
+      "gray",
+      "blue",
+      "yellow",
+      "white",
+      "black"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "遺跡",
+      "廃墟",
+      "ファンタジー",
+      "風景",
+      "草原",
+      "山",
+      "空",
+      "雲",
+      "鳥",
+      "古代",
+      "神秘的",
+      "壮大",
+      "ゴシック建築",
+      "ruins",
+      "ancient",
+      "fantasy",
+      "landscape",
+      "grassland",
+      "mountains",
+      "sky",
+      "clouds",
+      "birds",
+      "mystical",
+      "epic",
+      "Gothic architecture",
+      "weathered"
+    ]
+  }
+}

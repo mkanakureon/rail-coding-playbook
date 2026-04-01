@@ -1,0 +1,43 @@
+{
+  "asset_id": "01KJ2VMCSS6VAMDZNV6PV3EFZA",
+  "filename": "test/三国志/mk18x_legendary_three_kingdoms_female_strategist_Dawn_Tactici_7336936b-c4c2-4756-bf18-74bd686c5b9b_0 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "長い黒髪を複雑な髪飾りで結い上げた、赤みがかった瞳の若い女性。彼女は黒、赤、金を基調とした豪華で多層的な伝統的な衣装を身に着けている。この衣装は、おそらく中国の漢服にインスパイアされたもので、金色の鳳凰の刺繍や複雑な模様が特徴である。赤いリボンや房飾りがアクセントになっており、彼女の姿は高貴で堂々としている。表情は穏やかで落ち着いている。",
+    "description_en": "A young woman with reddish eyes and long black hair styled in an intricate updo, held by an ornate headpiece. She is dressed in a lavish, multi-layered traditional gown, predominantly in black, red, and gold. The attire, likely inspired by Chinese hanfu, features elaborate golden embroidery of a phoenix and other intricate patterns. It is accented with red ribbons and tassels, giving her a noble and dignified appearance. Her expression is calm and composed.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "updo",
+    "outfit": "An elaborate, multi-layered traditional gown in black, red, and gold, featuring golden phoenix embroidery, wide sleeves, and red ribbon accents.",
+    "weapon": null,
+    "expression": "calm",
+    "bodyType": "slim",
+    "objects": [
+      "ornate gown",
+      "headpiece"
+    ],
+    "tags": [
+      "anime",
+      "woman",
+      "black hair",
+      "red eyes",
+      "hanfu",
+      "traditional Chinese dress",
+      "empress",
+      "noble",
+      "phoenix embroidery",
+      "ornate gown",
+      "headpiece",
+      "アニメ",
+      "女性",
+      "黒髪",
+      "赤い目",
+      "漢服",
+      "鳳凰",
+      "伝統衣装",
+      "簪",
+      "高貴"
+    ]
+  }
+}

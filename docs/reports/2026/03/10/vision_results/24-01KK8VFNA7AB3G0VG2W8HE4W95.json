@@ -1,0 +1,62 @@
+{
+  "asset_id": "01KK8VFNA7AB3G0VG2W8HE4W95",
+  "filename": "bg/三国志/mk18x_landscape_three_kingdoms_historical_visual_novel_backgr_8d49ec51-708f-4461-af5f-d3959fde9e79_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "この画像は、夕暮れ時の活気ある東洋の市場を描いています。石畳の通路には多くの人々が行き交い、様々な商品を売る屋台が軒を連ねています。屋台には、木製の樽や籠に山盛りの果物や野菜、乾燥品などが並べられ、鮮やかな赤やオレンジ色の提灯が吊るされています。背景には、伝統的な瓦屋根を持つ木造建築の建物が続き、その上には、夕陽に染まるオレンジ色の雲が浮かぶ青空が広がっています。全体的に暖かく、賑やかな雰囲気が伝わってきます。",
+    "description_en": "This image depicts a vibrant East Asian market scene at sunset. Numerous people are bustling along the cobblestone path, surrounded by a multitude of stalls selling various goods. The stalls are laden with mountains of fruits, vegetables, and dried goods in wooden barrels and baskets, with bright red and orange lanterns hanging overhead. In the background, traditional wooden buildings with tiled roofs line the street, beneath a blue sky filled with orange-tinted clouds illuminated by the setting sun. The overall atmosphere conveys a warm and lively traditional setting.",
+    "location": "street",
+    "timeOfDay": "sunset",
+    "mood": "lively",
+    "architecture": "traditional East Asian",
+    "objects": [
+      "people",
+      "market stalls",
+      "fruits",
+      "vegetables",
+      "lanterns",
+      "wooden barrels",
+      "traditional buildings",
+      "fabric awnings",
+      "baskets",
+      "dried goods"
+    ],
+    "colors": [
+      "warm browns",
+      "oranges",
+      "reds",
+      "golds",
+      "greens",
+      "blues",
+      "greys",
+      "light yellow"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "市場",
+      "夕暮れ",
+      "アジア",
+      "伝統的",
+      "賑やか",
+      "屋台",
+      "果物",
+      "野菜",
+      "提灯",
+      "歴史的",
+      "町並み",
+      "買い物",
+      "market",
+      "dusk",
+      "Asia",
+      "traditional",
+      "bustling",
+      "stalls",
+      "fruits",
+      "vegetables",
+      "lanterns",
+      "historic",
+      "cityscape",
+      "shopping"
+    ]
+  }
+}

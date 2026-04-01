@@ -1,0 +1,50 @@
+{
+  "asset_id": "01KJK93T1V8JXPJW1XPKWEPYS0",
+  "blob_path": "bg/7a272c061b95160d.webp",
+  "category": "bg",
+  "subcategory": "中国短尺ドラマ",
+  "filename": "bg/中国短尺ドラマ/mk18x_modern_business_district_cityscape_luxury_skyscrapers_g...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "chinese_drama",
+      "location": "business_district",
+      "timeOfDay": null,
+      "mood": "luxury",
+      "subtype": "outdoor"
+    },
+    "fromVision": {
+      "description_ja": "近未来的なビジネス街。ガラス張りの超高層ビルが林立し、青白い光が反射する壮大な都市景観",
+      "description_en": "Futuristic business district with glass luxury skyscrapers, blue-white light reflections, grand urban cityscape",
+      "tags": [
+        "ビジネス街",
+        "高層ビル",
+        "ガラス",
+        "都市",
+        "近未来",
+        "壮大",
+        "青白い光"
+      ],
+      "season": null,
+      "weather": "clear",
+      "architecture": "modern",
+      "mood": "luxury"
+    },
+    "subtype": "outdoor",
+    "tags": [
+      "chinese_drama",
+      "中国ドラマ",
+      "business_district",
+      "ビジネス街",
+      "luxury",
+      "高級",
+      "outdoor",
+      "屋外",
+      "高層ビル",
+      "ガラス",
+      "都市",
+      "近未来",
+      "壮大",
+      "青白い光"
+    ]
+  }
+}

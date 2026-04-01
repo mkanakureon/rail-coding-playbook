@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KK8VF29R4YRENVV3BX0FZ2VV",
+  "filename": "bg/学園/mk18x_landscape_school_visual_novel_background_school_hallway_85e291af-d8c4-40ca-93a9-f85fbe3f1722_1.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "アニメ風の学校の廊下。床は磨かれた木製で、右側の大きな窓から差し込む太陽光を反射して輝いている。光と影が床に美しい模様を描いている。廊下の両側には教室のドアが並んでいる。ドアは木製で、小さな窓が付いている。壁は白く、天井には蛍光灯が設置されている。右側の窓からは、青空の下、別の校舎と緑の木々が見える。廊下は奥へと続き、遠くには掲示板が見える。全体的に清潔で静かで、平和な雰囲気が漂っている。時間帯は日中で、授業中か放課後の誰もいない時間帯のようだ。",
+    "description_en": "An anime-style illustration of a school hallway. The long corridor features a polished wooden floor that brightly reflects sunlight streaming in from the large windows on the right. This creates a pattern of light and shadows across the floor. Classroom doors line both sides of the hallway. The doors are made of wood with small glass windows. The walls are white, and the ceiling is fitted with fluorescent lights. Through the windows on the right, another school building and green trees can be seen against a blue sky. The hallway extends deep into the perspective, with a bulletin board visible in the distance. The scene evokes a clean, quiet, and peaceful atmosphere, likely during the daytime when students are in class or after school.",
+    "location": "school",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "modern",
+    "objects": [
+      "hallway",
+      "windows",
+      "doors",
+      "floor",
+      "ceiling lights",
+      "bulletin board"
+    ],
+    "colors": [
+      "brown",
+      "white",
+      "gray",
+      "blue",
+      "green"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "school",
+      "hallway",
+      "corridor",
+      "classroom",
+      "anime",
+      "background",
+      "sunlight",
+      "peaceful",
+      "high school",
+      "Japan",
+      "indoor",
+      "学校",
+      "廊下",
+      "教室",
+      "アニメ",
+      "背景",
+      "日光",
+      "平和",
+      "高校",
+      "日本",
+      "屋内"
+    ]
+  }
+}

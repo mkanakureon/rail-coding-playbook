@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KJK93SR5W6X034KDZB3DY9K0",
+  "blob_path": "bg/589a9418ab0c92f2.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_A_beautiful_panora...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": null,
+      "timeOfDay": null,
+      "mood": "beautiful",
+      "subtype": "unknown"
+    },
+    "fromVision": {
+      "description_ja": "紫陽花が咲く丘からの美しいパノラマ。緑の丘陵と遠くの山々、青空と白い雲",
+      "description_en": "Beautiful panorama from a hydrangea-covered hill with green rolling hills, distant mountains, blue sky and white clouds",
+      "tags": [
+        "紫陽花",
+        "丘",
+        "パノラマ",
+        "緑",
+        "山",
+        "青空",
+        "花",
+        "明るい",
+        "広大"
+      ],
+      "season": "summer",
+      "weather": "clear",
+      "architecture": null,
+      "mood": "bright"
+    },
+    "subtype": "outdoor",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "beautiful",
+      "unknown",
+      "不明",
+      "紫陽花",
+      "丘",
+      "パノラマ",
+      "緑",
+      "山",
+      "青空",
+      "花",
+      "明るい",
+      "広大"
+    ]
+  }
+}

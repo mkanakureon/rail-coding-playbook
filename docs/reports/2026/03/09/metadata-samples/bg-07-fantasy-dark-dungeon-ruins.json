@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KJK93T0WF1HEWY8XRJ59A088",
+  "blob_path": "bg/b3199caa8d06ef07.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_fantasy_role_playing_game_landscape_A_dark_and_ominous...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": null,
+      "timeOfDay": null,
+      "mood": "dark",
+      "subtype": "unknown"
+    },
+    "fromVision": {
+      "description_ja": "暗く不気味な地下遺跡。緑色に光る像が中央に鎮座し、壊れた柱と発光キノコが散在する。苔と水気が漂う",
+      "description_en": "Dark ominous underground ruins with green-glowing statue at center, broken pillars and luminescent mushrooms scattered around",
+      "tags": [
+        "ダンジョン",
+        "遺跡",
+        "緑の光",
+        "像",
+        "柱",
+        "キノコ",
+        "暗い",
+        "不気味",
+        "地下"
+      ],
+      "season": null,
+      "weather": null,
+      "architecture": "ancient",
+      "mood": "ominous"
+    },
+    "subtype": "dungeon",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "dark",
+      "暗い",
+      "unknown",
+      "不明",
+      "ダンジョン",
+      "遺跡",
+      "緑の光",
+      "像",
+      "柱",
+      "キノコ",
+      "不気味",
+      "地下"
+    ]
+  }
+}

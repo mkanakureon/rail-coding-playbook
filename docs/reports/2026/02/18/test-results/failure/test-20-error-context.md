@@ -1,0 +1,83 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "kaedevn" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e6]:
+        - link "作品を見る" [ref=e7] [cursor=pointer]:
+          - /url: /works
+        - link "ログイン" [ref=e8] [cursor=pointer]:
+          - /url: /login
+        - link "新規登録" [ref=e9] [cursor=pointer]:
+          - /url: /register
+  - main [ref=e10]:
+    - generic [ref=e12]:
+      - link "← プロジェクト一覧に戻る" [ref=e13] [cursor=pointer]:
+        - /url: /projects
+      - generic [ref=e14]: "[object Object]"
+      - generic [ref=e15]:
+        - generic [ref=e17]:
+          - heading "AzureTest 1771374761199" [level=1] [ref=e18]
+          - button "編集" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]: "作成日: 2026年2月18日 09:32"
+          - generic [ref=e22]: "更新日: 2026年2月18日 09:32"
+        - generic [ref=e23]:
+          - link "エディタで編集（フル機能版）" [ref=e24] [cursor=pointer]:
+            - /url: https://ca-editor.icymeadow-82e272bc.japaneast.azurecontainerapps.io/projects/editor/01KHQ2M68DXAA7REF632NRWJ62?userId=01KHQ2KVA3CE6NZC59YTRRF5DD&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwMUtIUTJLVkEzQ0U2TlpDNTlZVFJSRjVERCIsImlhdCI6MTc3MTM3NDc5NywiZXhwIjoxNzcxOTc5NTk3fQ.nSP5A5Er_bDYhOSbyveI7Av3YZ3fbwSjrJCaak0ZHX8
+            - img [ref=e25]
+            - text: エディタで編集（フル機能版）
+          - button "作品を公開" [ref=e27] [cursor=pointer]
+          - button "プレビュー" [ref=e28] [cursor=pointer]
+        - generic [ref=e29]:
+          - heading "危険な操作" [level=2] [ref=e30]
+          - button "プロジェクトを削除" [ref=e31] [cursor=pointer]
+      - generic [ref=e33]:
+        - heading "作品を公開" [level=2] [ref=e34]
+        - paragraph [ref=e35]: 作品を公開すると、誰でもプレイできるようになります。
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e38]: タイトル *
+            - textbox "作品のタイトル" [ref=e39]: 公開作品 1771374761199
+          - generic [ref=e40]:
+            - generic [ref=e41]: 説明（オプション）
+            - textbox "作品の説明を入力..." [ref=e42]: Azure テスト公開
+          - generic [ref=e43]:
+            - generic [ref=e44]: サムネイルURL（オプション）
+            - textbox "https://example.com/thumbnail.jpg" [ref=e45]
+        - generic [ref=e46]:
+          - button "公開する" [ref=e47] [cursor=pointer]
+          - button "キャンセル" [ref=e48] [cursor=pointer]
+  - contentinfo [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - heading "kaedevn" [level=3] [ref=e53]
+          - paragraph [ref=e54]: ビジュアルノベルを簡単に作成・公開できるプラットフォーム
+        - generic [ref=e55]:
+          - heading "リンク" [level=4] [ref=e56]
+          - list [ref=e57]:
+            - listitem [ref=e58]:
+              - link "サービスについて" [ref=e59] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e60]:
+              - link "利用規約" [ref=e61] [cursor=pointer]:
+                - /url: /terms
+            - listitem [ref=e62]:
+              - link "プライバシーポリシー" [ref=e63] [cursor=pointer]:
+                - /url: /privacy
+        - generic [ref=e64]:
+          - heading "サポート" [level=4] [ref=e65]
+          - list [ref=e66]:
+            - listitem [ref=e67]:
+              - link "ヘルプ" [ref=e68] [cursor=pointer]:
+                - /url: /help
+            - listitem [ref=e69]:
+              - link "お問い合わせ" [ref=e70] [cursor=pointer]:
+                - /url: /contact
+      - generic [ref=e71]: © 2026 kaedevn. All rights reserved.
+  - alert [ref=e72]
+```

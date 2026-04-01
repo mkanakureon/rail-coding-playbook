@@ -1,0 +1,54 @@
+{
+  "asset_id": "01KJ2VMFXP5AQJ2ZM5C2P2PDHZ",
+  "blob_path": "ch/84fe121d0bc6ff29.webp",
+  "category": "ch-img",
+  "subcategory": "中国短尺ドラマ",
+  "filename": "test/中国短尺ドラマ/mk18x_mysterious_elegant_woman_in_dark_dress_full_body_facing...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "chinese_drama",
+      "role": null,
+      "gender": "woman",
+      "age": null,
+      "trait": "mysterious",
+      "subtype": "npc"
+    },
+    "fromVision": {
+      "description_ja": "ミステリアスなエレガント美女。黒いイブニングドレスにスリット。長い黒髪が流れるように垂れる。イヤリングの輝き",
+      "description_en": "Mysterious elegant woman in black evening gown with high slit, long flowing black hair, sparkling earrings",
+      "hairColor": "black",
+      "hairStyle": "long wavy",
+      "outfit": "black floor-length evening gown with thigh-high slit",
+      "weapon": null,
+      "mood": "mysterious",
+      "bodyType": "slim",
+      "background": "white",
+      "tags": [
+        "ミステリアス",
+        "エレガント",
+        "黒髪",
+        "イブニングドレス",
+        "スリット",
+        "美女",
+        "高級感"
+      ]
+    },
+    "subtype": "npc",
+    "tags": [
+      "chinese_drama",
+      "中国ドラマ",
+      "woman",
+      "女性",
+      "mysterious",
+      "ミステリアス",
+      "npc",
+      "NPC",
+      "エレガント",
+      "黒髪",
+      "イブニングドレス",
+      "スリット",
+      "美女",
+      "高級感"
+    ]
+  }
+}

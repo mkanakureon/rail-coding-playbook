@@ -1,0 +1,40 @@
+{
+  "asset_id": "01KJ2T0G7CT4VS0Z8XEJX8A40X",
+  "filename": "公式アセット/ファンタジー/mk18x_original_fantasy_hero_boy_full_body_character_standing__e52d534e-8094-40e5-aff8-b32576474b9b_2 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "緑色の短い髪と赤みがかった茶色の目を持つ若い男性のキャラクター。彼は装飾的な彫刻が施されたオフホワイト色のプレートアーマーを全身にまとっている。左肩には白いマントを羽織っており、風になびいている。腰の左側には青い鞘に収められた長剣を携えている。その表情は落ち着いており、自信に満ちているように見える。ファンタジーの世界の騎士や戦士を思わせる出で立ちである。",
+    "description_en": "A young male character with short, green hair and reddish-brown eyes. He is fully clad in ornate, off-white plate armor with decorative engravings. He wears a white cape over his left shoulder, which billows slightly. At his left hip, he carries a longsword sheathed in a blue scabbard. His expression is calm and appears confident. His appearance is that of a knight or warrior from a fantasy world.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "green",
+    "hairStyle": "short",
+    "outfit": "Full off-white plate armor with a white cape",
+    "weapon": "sword",
+    "expression": "confident",
+    "bodyType": "slim",
+    "objects": [
+      "sword",
+      "armor",
+      "cape"
+    ],
+    "tags": [
+      "knight",
+      "armor",
+      "sword",
+      "cape",
+      "green hair",
+      "male",
+      "fantasy",
+      "bishonen",
+      "騎士",
+      "鎧",
+      "剣",
+      "マント",
+      "緑髪",
+      "男性",
+      "ファンタジー",
+      "美少年"
+    ]
+  }
+}

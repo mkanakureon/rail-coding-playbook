@@ -1,0 +1,46 @@
+{
+  "asset_id": "01KK8VCZVY7S7729WHG7EFKG2J",
+  "filename": "bg/シルクロード/mk18x_landscape_qing_dynasty_silk_road_historical_visual_nove_6762baff-c2a1-4733-929d-fcbe77aa04bf_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "雪が静かに降りしきる、雄大で険しい山脈の夜の風景。月明かりか薄明かりが、雪に覆われた峰々や深い谷間を青白く照らし出している。谷底には凍った川か雪道が蛇行して奥へと続き、見る者を壮大な自然の奥深くへと誘う。手前には葉を落とした木々が雪化粧をして佇んでおり、静寂と厳粛さ、そして冬の厳しい美しさを感じさせる。",
+    "description_en": "A majestic and vast mountain range blanketed in snow under a night or twilight sky. A cool, blue light, likely moonlight, illuminates the scene, highlighting the rugged, sharp peaks and the deep valley below. Snow is gently falling, adding to the serene yet harsh atmosphere. A winding road or frozen river meanders through the valley, leading the eye into the distance. In the foreground, bare, snow-covered trees stand silently, enhancing the feeling of quiet solitude and the raw beauty of the winter landscape.",
+    "location": "mountains",
+    "timeOfDay": "night",
+    "mood": "serene",
+    "architecture": "natural",
+    "objects": [
+      "mountains",
+      "snow",
+      "valley",
+      "road",
+      "trees",
+      "sky"
+    ],
+    "colors": [
+      "blue",
+      "white",
+      "dark grey",
+      "black"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "winter",
+      "snow",
+      "mountain",
+      "night",
+      "landscape",
+      "cold",
+      "valley",
+      "peaceful",
+      "majestic",
+      "雪",
+      "山",
+      "冬",
+      "夜",
+      "風景",
+      "雪山",
+      "静寂"
+    ]
+  }
+}

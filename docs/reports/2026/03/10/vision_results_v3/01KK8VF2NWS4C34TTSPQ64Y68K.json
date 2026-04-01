@@ -1,0 +1,47 @@
+{
+  "asset_id": "01KK8VF2NWS4C34TTSPQ64Y68K",
+  "filename": "bg/学園/mk18x_landscape_school_visual_novel_background_school_rooftop_5f074aa2-243d-458a-a577-2ef0f89a913e_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "晴れた日の建物の屋上。あたりは金網のフェンスで囲まれている。床は明るい灰色のタイル張りで、フェンスの影が長く伸びている。空は鮮やかな青色で、白い雲が浮かんでおり、開放的で爽やかな雰囲気だが、誰もいないため少し寂しげな感じもする。",
+    "description_en": "The rooftop of a building on a clear, sunny day. The area is enclosed by a tall chain-link fence. The floor is covered with light grey tiles, upon which the long, distinct shadows of the fence are cast. Above, the sky is a brilliant blue, dotted with fluffy white clouds. The scene feels open and refreshing, but also slightly lonely or nostalgic due to its emptiness.",
+    "location": "rooftop",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "modern",
+    "objects": [
+      "rooftop",
+      "chain-link fence",
+      "sky",
+      "clouds"
+    ],
+    "colors": [
+      "blue",
+      "white",
+      "grey"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "rooftop",
+      "school",
+      "sky",
+      "clouds",
+      "fence",
+      "sunny",
+      "daytime",
+      "blue sky",
+      "anime",
+      "background",
+      "屋上",
+      "学校",
+      "空",
+      "雲",
+      "フェンス",
+      "晴れ",
+      "昼",
+      "青空",
+      "アニメ",
+      "背景"
+    ]
+  }
+}

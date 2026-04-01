@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>kaedevn Repository Architecture</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f172a; color: #e2e8f0; padding: 40px;
+    min-height: 100vh;
+  }
+  h1 { text-align: center; font-size: 28px; margin-bottom: 8px; color: #60a5fa; }
+  .subtitle { text-align: center; color: #94a3b8; margin-bottom: 40px; font-size: 14px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; max-width: 1200px; margin: 0 auto; }
+  .section { background: #1e293b; border-radius: 12px; padding: 20px; border: 1px solid #334155; }
+  .section h2 { font-size: 16px; color: #60a5fa; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+  .section h2 .icon { font-size: 20px; }
+  .item { padding: 6px 0; border-bottom: 1px solid #1e293b; font-size: 13px; }
+  .item:last-child { border-bottom: none; }
+  .item .name { color: #f1f5f9; font-weight: 600; }
+  .item .desc { color: #94a3b8; font-size: 12px; margin-top: 2px; }
+  .item .tech { display: inline-block; background: #334155; color: #93c5fd; padding: 1px 6px; border-radius: 4px; font-size: 11px; margin-top: 3px; }
+  .full-width { grid-column: 1 / -1; }
+  .two-col { grid-column: span 2; }
+  .flow { max-width: 1200px; margin: 40px auto 0; }
+  .flow h2 { text-align: center; color: #60a5fa; margin-bottom: 20px; }
+  .flow-diagram { display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; }
+  .flow-box { background: #1e293b; border: 2px solid #3b82f6; border-radius: 8px; padding: 12px 16px; text-align: center; min-width: 120px; }
+  .flow-box.active { border-color: #22c55e; background: #14532d; }
+  .flow-box .label { font-size: 12px; color: #93c5fd; }
+  .flow-box .name { font-size: 14px; font-weight: 600; }
+  .flow-arrow { color: #475569; font-size: 24px; }
+  .stats { display: flex; justify-content: center; gap: 40px; margin-top: 40px; }
+  .stat { text-align: center; }
+  .stat .num { font-size: 32px; font-weight: 700; color: #60a5fa; }
+  .stat .label { font-size: 12px; color: #94a3b8; }
+</style>
+</head>
+<body>
+  <h1>kaedevn Monorepo Architecture</h1>
+  <p class="subtitle">Visual Novel Creation Platform — Repository Structure</p>
+
+  <div class="grid">
+    <!-- Apps -->
+    <div class="section">
+      <h2><span class="icon">&#x1F4BB;</span> apps/</h2>
+      <div class="item">
+        <div class="name">editor/</div>
+        <div class="desc">ブロックエディタ（メイン制作ツール）</div>
+        <span class="tech">React + Zustand + Vite</span>
+      </div>
+      <div class="item">
+        <div class="name">ksc-editor/</div>
+        <div class="desc">KSCスクリプトエディタ</div>
+        <span class="tech">Monaco Editor + Vite</span>
+      </div>
+      <div class="item">
+        <div class="name">next/</div>
+        <div class="desc">ランディング・認証・マイページ</div>
+        <span class="tech">Next.js 15</span>
+      </div>
+      <div class="item">
+        <div class="name">hono/</div>
+        <div class="desc">バックエンド API</div>
+        <span class="tech">Hono + Prisma + PostgreSQL</span>
+      </div>
+    </div>
+
+    <!-- Packages - Engine -->
+    <div class="section">
+      <h2><span class="icon">&#x2699;</span> packages/ (Engine)</h2>
+      <div class="item">
+        <div class="name">web/</div>
+        <div class="desc">ブラウザ版ゲームエンジン</div>
+        <span class="tech">PixiJS + WebGL + Web Audio</span>
+      </div>
+      <div class="item">
+        <div class="name">native-engine/</div>
+        <div class="desc">ネイティブ版エンジン（Switch移植ベース）</div>
+        <span class="tech">SDL2 + C++ (~2,300行)</span>
+      </div>
+      <div class="item">
+        <div class="name">core/</div>
+        <div class="desc">共通型定義・Op型・インターフェース</div>
+        <span class="tech">TypeScript</span>
+      </div>
+      <div class="item">
+        <div class="name">battle-ui/</div>
+        <div class="desc">ターン制RPGバトルシステム</div>
+        <span class="tech">TypeScript</span>
+      </div>
+    </div>
+
+    <!-- Packages - Compiler -->
+    <div class="section">
+      <h2><span class="icon">&#x1F4DC;</span> packages/ (Language)</h2>
+      <div class="item">
+        <div class="name">compiler/</div>
+        <div class="desc">KS（Kaede Script）コンパイラ</div>
+        <span class="tech">Lexer → Parser → CodeGen → Op[]</span>
+      </div>
+      <div class="item">
+        <div class="name">ksc-compiler/</div>
+        <div class="desc">KSCコンパイラ + 型チェッカー</div>
+        <span class="tech">Lexer → Parser → Checker → VM</span>
+      </div>
+      <div class="item">
+        <div class="name">interpreter/</div>
+        <div class="desc">KSCインタプリタ + デバッガ</div>
+        <span class="tech">TypeScript (107+ tests)</span>
+      </div>
+      <div class="item">
+        <div class="name">ai-gateway/</div>
+        <div class="desc">AI執筆支援（マルチプロバイダ）</div>
+        <span class="tech">OpenAI / Anthropic / Google AI</span>
+      </div>
+    </div>
+
+    <!-- Infrastructure -->
+    <div class="section">
+      <h2><span class="icon">&#x2601;</span> Infrastructure</h2>
+      <div class="item">
+        <div class="name">Azure Container Apps</div>
+        <div class="desc">API + Next.js ホスティング</div>
+      </div>
+      <div class="item">
+        <div class="name">Azure Static Web Apps</div>
+        <div class="desc">Editor + Preview ホスティング</div>
+      </div>
+      <div class="item">
+        <div class="name">GitHub Actions</div>
+        <div class="desc">CI/CD（push to main で自動デプロイ）</div>
+      </div>
+      <div class="item">
+        <div class="name">PostgreSQL + pgvector</div>
+        <div class="desc">データベース + RAG検索</div>
+      </div>
+    </div>
+
+    <!-- Testing -->
+    <div class="section">
+      <h2><span class="icon">&#x1F9EA;</span> Testing</h2>
+      <div class="item">
+        <div class="name">E2E Tests (Playwright)</div>
+        <div class="desc">ブラウザテスト 140+ 件</div>
+      </div>
+      <div class="item">
+        <div class="name">Unit Tests (Vitest)</div>
+        <div class="desc">コンパイラ・エンジン・API</div>
+      </div>
+      <div class="item">
+        <div class="name">Azure Tests</div>
+        <div class="desc">本番環境 Health + API + E2E 101件</div>
+      </div>
+      <div class="item">
+        <div class="name">Schema Sync</div>
+        <div class="desc">Prisma ↔ DB 整合性検証</div>
+      </div>
+    </div>
+
+    <!-- Scripts & Tools -->
+    <div class="section">
+      <h2><span class="icon">&#x1F527;</span> Scripts & Tools</h2>
+      <div class="item">
+        <div class="name">assist-cli</div>
+        <div class="desc">AI執筆支援CLI（4段階パイプライン）</div>
+      </div>
+      <div class="item">
+        <div class="name">editor-json import</div>
+        <div class="desc">CLI → エディタ JSON 一括生成</div>
+      </div>
+      <div class="item">
+        <div class="name">RAG index</div>
+        <div class="desc">ドキュメント検索インデックス</div>
+      </div>
+      <div class="item">
+        <div class="name">OBS streaming</div>
+        <div class="desc">デモ動画録画自動化</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Data Flow -->
+  <div class="flow">
+    <h2>Data Flow: 制作 → 公開 → プレイ</h2>
+    <div class="flow-diagram">
+      <div class="flow-box">
+        <div class="label">Author</div>
+        <div class="name">Block Editor</div>
+      </div>
+      <div class="flow-arrow">&#x2194;</div>
+      <div class="flow-box">
+        <div class="label">Sync</div>
+        <div class="name">KS / KSC</div>
+      </div>
+      <div class="flow-arrow">&#x2192;</div>
+      <div class="flow-box">
+        <div class="label">Compile</div>
+        <div class="name">Op[] / VM</div>
+      </div>
+      <div class="flow-arrow">&#x2192;</div>
+      <div class="flow-box active">
+        <div class="label">Web Engine</div>
+        <div class="name">PixiJS</div>
+      </div>
+      <div class="flow-arrow">&#x2192;</div>
+      <div class="flow-box active">
+        <div class="label">Player</div>
+        <div class="name">Browser</div>
+      </div>
+    </div>
+    <div class="flow-diagram" style="margin-top: 16px;">
+      <div style="width: 440px;"></div>
+      <div class="flow-arrow">&#x2192;</div>
+      <div class="flow-box" style="border-color: #f59e0b; opacity: 0.7;">
+        <div class="label">Native Engine</div>
+        <div class="name">SDL2 + C++</div>
+      </div>
+      <div class="flow-arrow">&#x2192;</div>
+      <div class="flow-box" style="border-color: #f59e0b; opacity: 0.7;">
+        <div class="label">Coming Soon</div>
+        <div class="name">Switch</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats">
+    <div class="stat"><div class="num">4</div><div class="label">Apps</div></div>
+    <div class="stat"><div class="num">8</div><div class="label">Packages</div></div>
+    <div class="stat"><div class="num">14</div><div class="label">Block Types</div></div>
+    <div class="stat"><div class="num">140+</div><div class="label">E2E Tests</div></div>
+    <div class="stat"><div class="num">25+</div><div class="label">Docs</div></div>
+  </div>
+</body>
+</html>

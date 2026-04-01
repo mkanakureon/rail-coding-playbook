@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KJ2VMCQ4PZTRCT5G056TNP1S",
+  "filename": "test/三国志/mk18x_legendary_three_kingdoms_female_strategist_Crimson_Tact_7d926104-67b2-47a1-8c1d-eba702d80e5a_3 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "この画像には、豪華で伝統的な衣装を身につけた若い女性が描かれています。彼女は長く艶やかな黒髪を持ち、精巧な金色の飾りと赤い宝石で飾られた複雑な結い上げの髪型をしています。顔には落ち着いた表情を浮かべ、控えめな赤いアイシャドウとリップが特徴的です。彼女の衣装は主に鮮やかな赤と深みのある黒を基調とし、金色の刺繍や模様が豪華に施されています。特に袖やスカート部分には、細部まで描かれた鳳凰のような鳥の壮麗なデザインが見られます。複数の層になったローブは流れるようなシルエットを作り出し、足元には長く引きずる裾があります。全体として、高貴で優雅な雰囲気を醸し出しています。",
+    "description_en": "This image features a young woman dressed in an elaborate, traditional attire. She has long, lustrous black hair styled in an intricate updo, adorned with ornate gold accessories and red jewels. Her face displays a calm and serene expression, subtly enhanced by red eyeshadow and lipstick. Her outfit is predominantly vibrant red and deep black, richly embellished with golden embroidery and patterns. Magnificent phoenix-like bird designs, rendered with exquisite detail, are notably visible on the sleeves and skirt. The multi-layered robes create a flowing silhouette, with a long train trailing behind her. Overall, she exudes an air of nobility and elegance.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "black",
+    "hairStyle": "long, intricate updo with ornate hairpins and some loose strands",
+    "outfit": "Elaborate red and black traditional Chinese-style robe with extensive golden phoenix embroidery, multi-layered flowing sleeves, a long skirt with a train, and a high collar. Adorned with gold trim and tassels.",
+    "weapon": null,
+    "expression": "calm, serene",
+    "bodyType": "slim",
+    "objects": [
+      "elaborate headpiece",
+      "flowing robes",
+      "gold embroidery",
+      "phoenix motifs"
+    ],
+    "tags": [
+      "鳳凰",
+      "中国風",
+      "伝統衣装",
+      "優雅",
+      "美しい",
+      "女性",
+      "黒髪",
+      "赤い衣装",
+      "金色",
+      "豪華",
+      "高貴",
+      "ドレス",
+      "ロングヘア",
+      "簪",
+      "Phoenix",
+      "Chinese style",
+      "traditional attire",
+      "elegant",
+      "beautiful",
+      "woman",
+      "black hair",
+      "red outfit",
+      "gold",
+      "luxurious",
+      "noble",
+      "dress",
+      "long hair",
+      "hairpin"
+    ]
+  }
+}

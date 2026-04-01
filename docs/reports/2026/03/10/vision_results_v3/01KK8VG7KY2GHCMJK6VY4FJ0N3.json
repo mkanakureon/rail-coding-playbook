@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KK8VG7KY2GHCMJK6VY4FJ0N3",
+  "filename": "bg/政治/mk18x_landscape_government_hearing_room_interior_rows_of_desk_426a9ed6-64ad-4787-b213-3984460be3d2_3 (1).png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "広々とした、無人の会議場または議場のイラスト。部屋は中央の通路で二つに分かれており、両側に木製の机と椅子が整然と並んでいる。各席にはマイク、書類、そしておそらく投票や同時通訳用の装置が設置されている。前方には演壇があり、大きなプロジェクタースクリーンが設置されている。天井には多数の長方形の蛍光灯が埋め込まれており、部屋全体を明るく照らしている。壁は木目調のパネルと明るい色のパネルで構成されており、モダンでフォーマルな雰囲気を醸し出している。全体的に、重要な会議や議会が開かれる場所であることを示唆している。",
+    "description_en": "An illustration of a large, empty conference hall or assembly chamber. The room is divided by a central aisle, with rows of wooden desks and chairs neatly arranged on both sides. Each seat is equipped with a microphone, papers, and possibly a device for voting or simultaneous interpretation. At the front of the room is a raised dais with a long table and a large projection screen behind it. The ceiling is fitted with numerous rectangular fluorescent lights that brightly illuminate the entire space. The walls are composed of wood-grain panels and lighter-colored panels, creating a modern and formal atmosphere. Overall, the setting suggests a place for important meetings, conferences, or legislative sessions.",
+    "location": "conference room",
+    "timeOfDay": "day",
+    "mood": "formal",
+    "architecture": "modern",
+    "objects": [
+      "desks",
+      "chairs",
+      "microphones",
+      "projection screen",
+      "documents",
+      "podium"
+    ],
+    "colors": [
+      "brown",
+      "grey",
+      "beige",
+      "white",
+      "green"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "conference room",
+      "assembly hall",
+      "parliament",
+      "meeting",
+      "politics",
+      "empty",
+      "formal",
+      "modern",
+      "indoor",
+      "anime background",
+      "microphone",
+      "会議室",
+      "議場",
+      "国会",
+      "会議",
+      "政治",
+      "無人",
+      "フォーマル",
+      "モダン",
+      "屋内",
+      "アニメ背景",
+      "マイク"
+    ]
+  }
+}

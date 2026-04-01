@@ -1,0 +1,52 @@
+{
+  "description": "エモーションポイント（EP）導入後のデータ構造サンプル",
+  "version": "1.0.0-draft",
+  "updatedAt": "2026-03-09T18:40:00Z",
+  "schema_definition": {
+    "targetMaxEp": "章全体の目標最大熱量 (0-100)",
+    "ep": "シーンごとの熱量 (0-100)。執筆の密度と言葉の選択を制御する",
+    "vibe": "感情の方向性。演出（SE/BGM/エフェクト）の自動選択に使用",
+    "vibe_options": ["calm", "tension", "climax", "relief", "shock"]
+  },
+  "sample_episode_with_ep": {
+    "episodeNumber": 1,
+    "title": "枯れた泉と師の教え",
+    "ep": 65,
+    "vibe": "tension",
+    "summary": "村の命綱である泉の枯渇。神秘的な事実の発覚と旅立ちの決意を描く。",
+    "scenes": [
+      {
+        "sceneNumber": 1,
+        "location": "ラーシュ村・泉のほとり",
+        "time": "朝",
+        "characters": ["luca"],
+        "ep": 40,
+        "vibe": "calm",
+        "event": "泉の枯渇が判明。静かな絶望と混乱の始まり。",
+        "staging_hint": "静かなBGM、水滴の音の消失"
+      },
+      {
+        "sceneNumber": 2,
+        "location": "ヨルダの家",
+        "time": "昼",
+        "characters": ["luca", "yolda"],
+        "ep": 85,
+        "vibe": "shock",
+        "event": "ヨルダから泉晶石の破損と、世界の真実の一端が告げられる。",
+        "staging_hint": "[flash] 演出、緊張感のあるBGM、重要なSE"
+      }
+    ]
+  },
+  "writing_guidelines_by_ep": {
+    "low_ep_0_30": {
+      "tone": "Objective, calm, descriptive",
+      "vocabulary": "Standard, concrete nouns",
+      "sentence_structure": "Short, factual"
+    },
+    "high_ep_80_100": {
+      "tone": "Subjective, intense, emotional",
+      "vocabulary": "Rich metaphors, sensory words",
+      "sentence_structure": "Rhythmic, varied, deeply internal"
+    }
+  }
+}

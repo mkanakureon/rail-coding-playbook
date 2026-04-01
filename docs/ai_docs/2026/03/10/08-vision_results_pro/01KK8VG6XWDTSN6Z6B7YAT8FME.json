@@ -1,0 +1,53 @@
+{
+  "asset_id": "01KK8VG6XWDTSN6Z6B7YAT8FME",
+  "filename": "bg/政治/mk18x_landscape_national_security_council_meeting_room_interi_d74679e8-c8da-4aa7-8314-beed773c6a67_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "薄暗い照明に照らされた、ハイテクな司令室または会議室。部屋の中央には大きな楕円形の会議テーブルがあり、その周りには多数のオフィスチェアが並んでいる。テーブルの上には、各席に1台ずつラップトップが開かれた状態で置かれている。奥の壁には世界地図が映し出された巨大なスクリーンがあり、左側の壁には監視映像やデータを表示していると思われる多数の小型モニターが設置されている。天井からのスポットライトがテーブルとスクリーンを照らし、全体的に緊張感と重要性の高い雰囲気を醸し出している。未来的な政府機関や軍の作戦室を思わせる光景である。",
+    "description_en": "A high-tech command center or conference room illuminated by dim lighting. In the center of the room is a large oval conference table surrounded by numerous office chairs. On the table, an open laptop is placed at each seat. On the far wall, a giant screen displays a world map, while the left wall is filled with a bank of smaller monitors, likely showing surveillance footage or data. Spotlights from the ceiling illuminate the table and screens, creating a tense and important atmosphere. The scene is reminiscent of a futuristic government agency or military situation room.",
+    "location": "command center",
+    "timeOfDay": "night",
+    "mood": "ominous",
+    "architecture": "modern",
+    "objects": [
+      "conference table",
+      "chairs",
+      "laptops",
+      "monitors",
+      "world map",
+      "lights"
+    ],
+    "colors": [
+      "black",
+      "dark gray",
+      "blue"
+    ],
+    "subtype": "indoor",
+    "tags": [
+      "command center",
+      "situation room",
+      "conference room",
+      "high-tech",
+      "world map",
+      "monitors",
+      "laptops",
+      "dark",
+      "serious",
+      "spy",
+      "government",
+      "security",
+      "指令室",
+      "作戦室",
+      "会議室",
+      "ハイテク",
+      "世界地図",
+      "モニター",
+      "ラップトップ",
+      "暗い",
+      "シリアス",
+      "スパイ",
+      "政府",
+      "セキュリティ"
+    ]
+  }
+}

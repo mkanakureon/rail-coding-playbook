@@ -1,0 +1,51 @@
+{
+  "asset_id": "01KJK93SF0S7K1SWRX95NBJ5X0",
+  "blob_path": "bg/797033a13a42d13d.webp",
+  "category": "bg",
+  "subcategory": "ファンタジー",
+  "filename": "bg/ファンタジー/mk18x_A_hidden_entrance_at_the_base_of_an_ancient_towering_tr...",
+  "metadata": {
+    "fromFilename": {
+      "genre": "fantasy",
+      "location": null,
+      "timeOfDay": null,
+      "mood": "hidden",
+      "subtype": "unknown"
+    },
+    "fromVision": {
+      "description_ja": "古代の巨木の根元にある隠し入口。青く輝くポータルが神秘的に光る。苔むした岩と石段が誘う",
+      "description_en": "Hidden entrance at the base of an ancient towering tree with a glowing blue portal, mossy rocks and stone steps",
+      "tags": [
+        "森",
+        "巨木",
+        "ポータル",
+        "青い光",
+        "神秘的",
+        "苔",
+        "石段",
+        "hidden",
+        "ancient"
+      ],
+      "season": null,
+      "weather": null,
+      "architecture": null,
+      "mood": "mystical"
+    },
+    "subtype": "dungeon",
+    "tags": [
+      "fantasy",
+      "ファンタジー",
+      "hidden",
+      "unknown",
+      "不明",
+      "森",
+      "巨木",
+      "ポータル",
+      "青い光",
+      "神秘的",
+      "苔",
+      "石段",
+      "ancient"
+    ]
+  }
+}

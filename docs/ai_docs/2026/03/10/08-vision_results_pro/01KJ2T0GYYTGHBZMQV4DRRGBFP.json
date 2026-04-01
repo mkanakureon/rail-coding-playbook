@@ -1,0 +1,39 @@
+{
+  "asset_id": "01KJ2T0GYYTGHBZMQV4DRRGBFP",
+  "filename": "公式アセット/ファンタジー/mk18x_original_fantasy_archer_boy_full_body_character_standin_61ad1a5a-2b99-4a93-be26-25b8a0bc8f39_1 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "茶色い短髪で、茶色の目をした若い男性キャラクター。森のレンジャーや射手のような服装をしている。オフホワイトのチュニックの上に茶色い革のジャーキンを重ね、腕には革のアームガード、腰にはポーチ付きのベルトを締めている。背中には緑の葉や蔦が絡まったフード付きのマントを羽織っており、自然に溶け込むようなデザインとなっている。左手には木製の弓を持ち、自信に満ちた落ち着いた表情でまっすぐ前を見据えている。",
+    "description_en": "A young male character with short brown hair and brown eyes. He is dressed like a forest ranger or an archer. He wears an off-white tunic under a brown leather jerkin, with leather bracers on his arms and a belt with pouches at his waist. On his back, he wears a hooded cloak adorned with green leaves and vines, designed to blend in with nature. He holds a wooden bow in his left hand and looks forward with a calm and confident expression.",
+    "gender": "man",
+    "age": "young",
+    "hairColor": "brown",
+    "hairStyle": "short",
+    "outfit": "A ranger's outfit consisting of an off-white tunic, a brown leather jerkin, brown trousers, leather boots and bracers, and a green, leaf-covered hooded cloak.",
+    "weapon": "bow and arrows",
+    "expression": "calm",
+    "bodyType": "slim",
+    "objects": [
+      "bow",
+      "arrows",
+      "cloak",
+      "bracers",
+      "belt pouch"
+    ],
+    "tags": [
+      "archer",
+      "ranger",
+      "fantasy",
+      "woodsman",
+      "bowman",
+      "anime style",
+      "character design",
+      "弓兵",
+      "レンジャー",
+      "ファンタジー",
+      "森の男",
+      "キャラクターデザイン",
+      "アニメ風"
+    ]
+  }
+}

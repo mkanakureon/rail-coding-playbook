@@ -1,0 +1,60 @@
+{
+  "asset_id": "01KK8VD280TTBGV4K4FAKKEXYP",
+  "filename": "bg/シルクロード/mk18x_landscape_qing_dynasty_silk_road_historical_visual_nove_177ddfb7-549c-44ed-b2c3-dba65270d085_1.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "美しい青空の下、伝統的な東洋建築に囲まれた広々とした中庭の風景。中央には長方形の池があり、複数の段状の噴水が水を噴き上げている。池の周りはきれいに舗装された石畳と手入れの行き届いた芝生で囲まれている。中庭を取り囲む建物は、濃い瓦屋根と水色の軒先が特徴的で、木製の柱や格子戸が見られる。豊かな緑の木々が植えられており、特に奥には大きな枝垂れ柳が印象的。日の光が降り注ぎ、建物や木々の影が地面に長く伸びている。静かで穏やかな、歴史を感じさせる空間である。",
+    "description_en": "A spacious courtyard scene surrounded by traditional East Asian architecture under a beautiful blue sky. In the center, there is a rectangular pond with several tiered fountains spraying water. The pond is enclosed by neatly paved stone pathways and well-maintained lawns. The buildings surrounding the courtyard feature dark tiled roofs, light blue eaves, and visible wooden columns and lattice doors. Lush green trees are planted throughout, with a striking large weeping willow particularly prominent in the background. Sunlight streams down, casting long shadows of the buildings and trees on the ground. It is a quiet, calm, and historically rich space.",
+    "location": "courtyard",
+    "timeOfDay": "day",
+    "mood": "peaceful",
+    "architecture": "traditional East Asian",
+    "objects": [
+      "pond",
+      "fountains",
+      "traditional buildings",
+      "trees",
+      "weeping willow",
+      "grass",
+      "pavement",
+      "sky",
+      "clouds",
+      "shrubs"
+    ],
+    "colors": [
+      "blue",
+      "green",
+      "grey",
+      "brown",
+      "white",
+      "teal"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "中庭",
+      "庭園",
+      "東洋建築",
+      "伝統的",
+      "噴水",
+      "池",
+      "柳",
+      "青空",
+      "平和",
+      "静寂",
+      "風景",
+      "アニメ背景",
+      "Courtyard",
+      "Garden",
+      "East Asian architecture",
+      "Traditional",
+      "Fountain",
+      "Pond",
+      "Willow tree",
+      "Blue sky",
+      "Peaceful",
+      "Serene",
+      "Landscape",
+      "Anime background"
+    ]
+  }
+}

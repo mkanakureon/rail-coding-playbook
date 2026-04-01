@@ -1,0 +1,478 @@
+[
+  {
+    "id": "bg-01-configured",
+    "blockType": "bg",
+    "state": "configured",
+    "title": "背景ブロック（BG）— 画像設定済み",
+    "description": "背景ブロック選択時。右パネルにアセットサムネイル、X/Y/スケールスライダー、プレビュー。",
+    "filename": "bg-01-configured.png",
+    "selector": "[data-block-id^=\"bg-\"]",
+    "capturedAt": "2026-03-10T11:01:52.733Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "bg",
+      "configured",
+      "basic"
+    ]
+  },
+  {
+    "id": "editor-00-overview",
+    "blockType": "editor",
+    "state": "overview",
+    "title": "ブロックエディタ — 全体画面",
+    "description": "エディタ全体のレイアウト。背景ブロック選択時。右パネルにプロパティとプレビューが表示されている。",
+    "filename": "editor-00-overview.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T11:01:40.218Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "editor",
+      "overview",
+      "layout"
+    ]
+  },
+  {
+    "id": "start-01-default",
+    "blockType": "start",
+    "state": "default",
+    "title": "START ブロック",
+    "description": "STARTブロック選択時。右パネルに「ページの開始ブロックです。」と表示。編集不可。",
+    "filename": "start-01-default.png",
+    "selector": "[data-block-id^=\"start\"]",
+    "capturedAt": "2026-03-10T11:01:46.503Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "start",
+      "readonly"
+    ]
+  },
+  {
+    "id": "bg-02-modal",
+    "blockType": "bg",
+    "state": "modal-open",
+    "title": "背景ブロック — 画像選択モーダル",
+    "description": "背景画像を選択するモーダル。サムネイルグリッドで画像を一覧表示。",
+    "filename": "bg-02-modal.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T11:01:58.566Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "bg",
+      "modal",
+      "asset-select"
+    ]
+  },
+  {
+    "id": "text-01-collapsed",
+    "blockType": "text",
+    "state": "collapsed",
+    "title": "テキストブロック — 折りたたみ状態",
+    "description": "テキストブロックの折りたたみ状態。紫の「テキスト」バッジと本文プレビュー。",
+    "filename": "text-01-collapsed.png",
+    "selector": "[data-block-id^=\"text-\"]",
+    "capturedAt": "2026-03-10T10:34:36.817Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "text",
+      "collapsed",
+      "basic"
+    ]
+  },
+  {
+    "id": "text-02-expanded",
+    "blockType": "text",
+    "state": "expanded",
+    "title": "テキストブロック — 展開・選択状態",
+    "description": "テキストブロック選択時。カードが展開し、右パネルに話者名・テキストエリア・カラーピッカー、下部にプレビュー。",
+    "filename": "text-02-expanded.png",
+    "selector": "[data-block-id^=\"text-\"]",
+    "capturedAt": "2026-03-10T11:02:05.336Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "text",
+      "expanded",
+      "editing"
+    ]
+  },
+  {
+    "id": "ch-01-configured",
+    "blockType": "ch",
+    "state": "configured",
+    "title": "キャラブロック（CH）— キャラクター設定済み",
+    "description": "キャラブロック選択時。右パネルに表情サムネイル、位置ボタン(L/C/R)、表示切替、スライダー、プレビュー。",
+    "filename": "ch-01-configured.png",
+    "selector": "[data-block-id^=\"ch-\"]",
+    "capturedAt": "2026-03-10T11:02:11.555Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "ch",
+      "configured",
+      "basic"
+    ]
+  },
+  {
+    "id": "effect-01-configured",
+    "blockType": "effect",
+    "state": "configured",
+    "title": "演出ブロック（FX）",
+    "description": "演出ブロック選択時。右パネルにエフェクトドロップダウン、強度、持続時間。",
+    "filename": "effect-01-configured.png",
+    "selector": "[data-block-id^=\"effect-\"]",
+    "capturedAt": "2026-03-10T11:02:17.777Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "effect",
+      "configured",
+      "inline"
+    ]
+  },
+  {
+    "id": "timeline-01-summary",
+    "blockType": "timeline",
+    "state": "selected",
+    "title": "タイムラインブロック（演出TL）",
+    "description": "タイムラインブロック選択時。下部にタイムラインエディタ、右パネルにトラック情報とアニメーションプレビュー。",
+    "filename": "timeline-01-summary.png",
+    "selector": "[data-block-id^=\"timeline-\"]",
+    "capturedAt": "2026-03-10T11:02:24.192Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "timeline",
+      "selected"
+    ]
+  },
+  {
+    "id": "menu-01-add-block",
+    "blockType": "menu",
+    "state": "open",
+    "title": "ブロック追加メニュー",
+    "description": "ブロック追加メニュー。14種のブロックタイプがアイコン＋ラベルのグリッドで表示。",
+    "filename": "menu-01-add-block.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T11:02:29.107Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "menu",
+      "add-block",
+      "ui"
+    ]
+  },
+  {
+    "id": "panel-00-empty",
+    "blockType": "panel",
+    "state": "no-selection",
+    "title": "右パネル — 未選択状態",
+    "description": "ブロック未選択時の右パネル。プロパティ欄に案内テキスト、プレビューは黒。",
+    "filename": "panel-00-empty.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T10:35:00.261Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "panel",
+      "empty",
+      "inspector"
+    ]
+  },
+  {
+    "id": "panel-01-bg",
+    "blockType": "bg",
+    "state": "inspector",
+    "title": "右パネル — 背景ブロック選択時",
+    "description": "背景ブロックをクリックした時の右パネル。上部にアセットサムネイルとX/Y/スケールスライダー、下部に16:9プレビュー。",
+    "filename": "panel-01-bg.png",
+    "selector": "[data-block-id^=\"bg-\"]",
+    "capturedAt": "2026-03-10T10:35:06.556Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "panel",
+      "bg",
+      "inspector",
+      "preview"
+    ]
+  },
+  {
+    "id": "panel-02-text",
+    "blockType": "text",
+    "state": "inspector",
+    "title": "右パネル — テキストブロック選択時",
+    "description": "テキストブロックをクリックした時の右パネル。上部に話者名入力、テキストエリア、カラーピッカー。下部にプレビュー。",
+    "filename": "panel-02-text.png",
+    "selector": "[data-block-id^=\"text-\"]",
+    "capturedAt": "2026-03-10T10:35:12.928Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "panel",
+      "text",
+      "inspector",
+      "preview"
+    ]
+  },
+  {
+    "id": "panel-03-ch",
+    "blockType": "ch",
+    "state": "inspector",
+    "title": "右パネル — キャラブロック選択時",
+    "description": "キャラブロックをクリックした時の右パネル。上部に表情画像、L/C/Rボタン、スライダー。下部にプレビュー。",
+    "filename": "panel-03-ch.png",
+    "selector": "[data-block-id^=\"ch-\"]",
+    "capturedAt": "2026-03-10T10:35:19.279Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "panel",
+      "ch",
+      "inspector",
+      "preview"
+    ]
+  },
+  {
+    "id": "panel-04-effect",
+    "blockType": "effect",
+    "state": "inspector",
+    "title": "右パネル — 演出ブロック選択時",
+    "description": "演出ブロックをクリックした時の右パネル。上部にエフェクト設定、下部にプレビュー。",
+    "filename": "panel-04-effect.png",
+    "selector": "[data-block-id^=\"effect-\"]",
+    "capturedAt": "2026-03-10T10:35:25.625Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "panel",
+      "effect",
+      "inspector",
+      "preview"
+    ]
+  },
+  {
+    "id": "panel-05-timeline",
+    "blockType": "timeline",
+    "state": "inspector",
+    "title": "右パネル — タイムラインブロック選択時",
+    "description": "タイムラインブロックをクリックした時の右パネル。専用エディタUIとアニメーションプレビュー。",
+    "filename": "panel-05-timeline.png",
+    "selector": "[data-block-id^=\"timeline-\"]",
+    "capturedAt": "2026-03-10T10:35:32.044Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "panel",
+      "timeline",
+      "inspector",
+      "preview"
+    ]
+  },
+  {
+    "id": "01-editor-overview",
+    "blockType": "editor",
+    "state": "overview",
+    "title": "ブロックエディタ — 全体画面",
+    "description": "エディタ全体のレイアウト。背景ブロック選択時。右パネルにプロパティとプレビューが表示されている。",
+    "filename": "01-editor-overview.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T11:18:17.419Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "editor",
+      "overview",
+      "layout"
+    ]
+  },
+  {
+    "id": "02-start-block",
+    "blockType": "start",
+    "state": "default",
+    "title": "START ブロック",
+    "description": "STARTブロック選択時。右パネルに「ページの開始ブロックです。」と表示。編集不可。",
+    "filename": "02-start-block.png",
+    "selector": "[data-block-id^=\"start\"]",
+    "capturedAt": "2026-03-10T11:18:23.771Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "start",
+      "readonly"
+    ]
+  },
+  {
+    "id": "03-bg-configured",
+    "blockType": "bg",
+    "state": "configured",
+    "title": "背景ブロック（BG）— 画像設定済み",
+    "description": "背景ブロック選択時。右パネルにアセットサムネイル、X/Y/スケールスライダー、プレビュー。",
+    "filename": "03-bg-configured.png",
+    "selector": "[data-block-id^=\"bg-\"]",
+    "capturedAt": "2026-03-10T11:18:30.050Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "bg",
+      "configured",
+      "basic"
+    ]
+  },
+  {
+    "id": "04-bg-modal",
+    "blockType": "bg",
+    "state": "modal-open",
+    "title": "背景ブロック — 画像選択モーダル",
+    "description": "背景画像を選択するモーダル。サムネイルグリッドで画像を一覧表示。",
+    "filename": "04-bg-modal.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T11:18:35.884Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "bg",
+      "modal",
+      "asset-select"
+    ]
+  },
+  {
+    "id": "05-text-expanded",
+    "blockType": "text",
+    "state": "expanded",
+    "title": "テキストブロック — 展開・選択状態",
+    "description": "テキストブロック選択時。カードが展開し、右パネルに話者名・テキストエリア・カラーピッカー、下部にプレビュー。",
+    "filename": "05-text-expanded.png",
+    "selector": "[data-block-id^=\"text-\"]",
+    "capturedAt": "2026-03-10T11:18:42.676Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "text",
+      "expanded",
+      "editing"
+    ]
+  },
+  {
+    "id": "06-ch-configured",
+    "blockType": "ch",
+    "state": "configured",
+    "title": "キャラブロック（CH）— キャラクター設定済み",
+    "description": "キャラブロック選択時。右パネルに表情サムネイル、位置ボタン(L/C/R)、表示切替、スライダー、プレビュー。",
+    "filename": "06-ch-configured.png",
+    "selector": "[data-block-id^=\"ch-\"]",
+    "capturedAt": "2026-03-10T11:18:48.939Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "ch",
+      "configured",
+      "basic"
+    ]
+  },
+  {
+    "id": "07-effect-configured",
+    "blockType": "effect",
+    "state": "configured",
+    "title": "演出ブロック（FX）",
+    "description": "演出ブロック選択時。右パネルにエフェクトドロップダウン、強度、持続時間。",
+    "filename": "07-effect-configured.png",
+    "selector": "[data-block-id^=\"effect-\"]",
+    "capturedAt": "2026-03-10T11:18:55.203Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "effect",
+      "configured",
+      "inline"
+    ]
+  },
+  {
+    "id": "08-timeline-selected",
+    "blockType": "timeline",
+    "state": "selected",
+    "title": "タイムラインブロック（演出TL）",
+    "description": "タイムラインブロック選択時。下部にタイムラインエディタ、右パネルにトラック情報とアニメーションプレビュー。",
+    "filename": "08-timeline-selected.png",
+    "selector": "[data-block-id^=\"timeline-\"]",
+    "capturedAt": "2026-03-10T11:19:01.521Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "timeline",
+      "selected"
+    ]
+  },
+  {
+    "id": "09-add-block-menu",
+    "blockType": "menu",
+    "state": "open",
+    "title": "ブロック追加メニュー",
+    "description": "ブロック追加メニュー。14種のブロックタイプがアイコン＋ラベルのグリッドで表示。",
+    "filename": "09-add-block-menu.png",
+    "selector": null,
+    "capturedAt": "2026-03-10T11:19:06.286Z",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    },
+    "tags": [
+      "menu",
+      "add-block",
+      "ui"
+    ]
+  }
+]

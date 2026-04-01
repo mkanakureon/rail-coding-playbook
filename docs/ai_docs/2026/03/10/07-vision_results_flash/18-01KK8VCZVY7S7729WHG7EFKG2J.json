@@ -1,0 +1,52 @@
+{
+  "asset_id": "01KK8VCZVY7S7729WHG7EFKG2J",
+  "filename": "bg/シルクロード/mk18x_landscape_qing_dynasty_silk_road_historical_visual_nove_6762baff-c2a1-4733-929d-fcbe77aa04bf_3.png",
+  "category": "bg",
+  "fromVision": {
+    "description_ja": "広大で雪深い山岳地帯の風景が描かれています。高くそびえる険しい雪を被った山々が連なり、その間を縫うようにして雪に覆われた曲がりくねった道、または凍った川が遠くまで伸びています。空は曇り空で、ところどころから差し込む淡い光が雪景色を神秘的に照らしています。舞い落ちる雪が静寂な雰囲気を一層深め、手前には葉を落とした木々が点在し、荒涼とした冬の情景を強調しています。全体的に青と白を基調とした、厳かで雄大な自然の美しさが際立つ一枚です。",
+    "description_en": "This image depicts a vast and dramatic snow-covered mountain landscape. Towering, rugged snow-capped peaks line the scene, with a winding, snow-covered path or frozen river snaking through the valley into the distance. The sky is overcast, with soft, diffused light breaking through the clouds, casting a mystical glow upon the snowy terrain. Falling snow enhances the quiet and wild atmosphere, while bare, deciduous trees in the foreground and along the lower slopes emphasize the desolate beauty of winter. The overall palette is dominated by blues and whites, creating a majestic and awe-inspiring natural vista.",
+    "location": "mountain valley",
+    "timeOfDay": "twilight",
+    "mood": "awe-inspiring",
+    "architecture": "none",
+    "objects": [
+      "mountains",
+      "snow",
+      "winding path",
+      "bare trees",
+      "clouds",
+      "falling snow"
+    ],
+    "colors": [
+      "blue",
+      "white",
+      "indigo",
+      "grey"
+    ],
+    "subtype": "outdoor",
+    "tags": [
+      "雪山",
+      "谷",
+      "冬景色",
+      "幻想的",
+      "雄大",
+      "寒い",
+      "雪",
+      "雪道",
+      "山脈",
+      "自然",
+      "静寂",
+      "snowy mountains",
+      "mountain valley",
+      "winter landscape",
+      "fantasy",
+      "majestic",
+      "cold",
+      "snow",
+      "snowy path",
+      "mountain range",
+      "nature",
+      "serene"
+    ]
+  }
+}

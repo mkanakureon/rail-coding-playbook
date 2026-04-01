@@ -1,0 +1,1071 @@
+[
+  {
+    "asset_id": "01KJK93SF0S7K1SWRX95NBJ5X0",
+    "blob_path": "bg/797033a13a42d13d.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_A_hidden_entrance_at_the_base_of_an_ancient_towering_tr...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": null,
+        "timeOfDay": null,
+        "mood": "hidden",
+        "subtype": "unknown"
+      },
+      "fromVision": {
+        "description_ja": "古代の巨木の根元にある隠し入口。青く輝くポータルが神秘的に光る。苔むした岩と石段が誘う",
+        "description_en": "Hidden entrance at the base of an ancient towering tree with a glowing blue portal, mossy rocks and stone steps",
+        "tags": [
+          "森",
+          "巨木",
+          "ポータル",
+          "青い光",
+          "神秘的",
+          "苔",
+          "石段",
+          "hidden",
+          "ancient"
+        ],
+        "season": null,
+        "weather": null,
+        "architecture": null,
+        "mood": "mystical"
+      },
+      "subtype": "dungeon",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "hidden",
+        "unknown",
+        "不明",
+        "森",
+        "巨木",
+        "ポータル",
+        "青い光",
+        "神秘的",
+        "苔",
+        "石段",
+        "ancient"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93SEGYR3K3EDXVYCEYRFY",
+    "blob_path": "bg/86e56793bfd2d144.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_A_quiet_night_plain_under_a_starry_sky_drawn_in_Japanese...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": "plain",
+        "timeOfDay": "night",
+        "mood": "quiet",
+        "subtype": "outdoor"
+      },
+      "fromVision": {
+        "description_ja": "星空の下に広がる静かな平原。満月と天の川が輝き、蛍のような光が草原を照らす。遠くに山々のシルエット",
+        "description_en": "Quiet night plain under starry sky with full moon and milky way, firefly-like lights in grass, mountain silhouettes in distance",
+        "tags": [
+          "夜",
+          "星空",
+          "満月",
+          "平原",
+          "蛍",
+          "山",
+          "天の川",
+          "青",
+          "幻想的"
+        ],
+        "season": "summer",
+        "weather": "clear",
+        "architecture": null,
+        "mood": "serene"
+      },
+      "subtype": "outdoor",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "plain",
+        "平原",
+        "night",
+        "夜",
+        "quiet",
+        "outdoor",
+        "屋外",
+        "星空",
+        "満月",
+        "蛍",
+        "山",
+        "天の川",
+        "青",
+        "幻想的"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93SR5W6X034KDZB3DY9K0",
+    "blob_path": "bg/589a9418ab0c92f2.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_A_beautiful_panora...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": null,
+        "timeOfDay": null,
+        "mood": "beautiful",
+        "subtype": "unknown"
+      },
+      "fromVision": {
+        "description_ja": "紫陽花が咲く丘からの美しいパノラマ。緑の丘陵と遠くの山々、青空と白い雲",
+        "description_en": "Beautiful panorama from a hydrangea-covered hill with green rolling hills, distant mountains, blue sky and white clouds",
+        "tags": [
+          "紫陽花",
+          "丘",
+          "パノラマ",
+          "緑",
+          "山",
+          "青空",
+          "花",
+          "明るい",
+          "広大"
+        ],
+        "season": "summer",
+        "weather": "clear",
+        "architecture": null,
+        "mood": "bright"
+      },
+      "subtype": "outdoor",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "beautiful",
+        "unknown",
+        "不明",
+        "紫陽花",
+        "丘",
+        "パノラマ",
+        "緑",
+        "山",
+        "青空",
+        "花",
+        "明るい",
+        "広大"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93SXJDZA4TNZGGDDRHPWZ",
+    "blob_path": "bg/8fe6635b39d0b77a.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_background_a_fantasy_role_playing_game_An_enchanted_cas...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": "castle",
+        "timeOfDay": null,
+        "mood": "enchanted",
+        "subtype": "outdoor"
+      },
+      "fromVision": {
+        "description_ja": "崖の上に建つ魔法の城。ゴシック様式の尖塔が連なり、青い魔法の光が基部を照らす。夕焼けの空と広大な景色",
+        "description_en": "Enchanted castle on cliff with gothic spires, blue magical glow at the base, sunset sky with vast landscape",
+        "tags": [
+          "城",
+          "ゴシック",
+          "尖塔",
+          "魔法",
+          "青い光",
+          "夕焼け",
+          "崖",
+          "壮大",
+          "ファンタジー"
+        ],
+        "season": null,
+        "weather": "clear",
+        "architecture": "gothic",
+        "mood": "mystical"
+      },
+      "subtype": "outdoor",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "castle",
+        "城",
+        "enchanted",
+        "outdoor",
+        "屋外",
+        "ゴシック",
+        "尖塔",
+        "魔法",
+        "青い光",
+        "夕焼け",
+        "崖",
+        "壮大"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93T1V8JXPJW1XPKWEPYSG",
+    "blob_path": "bg/afec7b89d6a81b04.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_DARK_SOULS_style_A_serene_anime-style_RPG_town_devoid_o...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": null,
+        "timeOfDay": null,
+        "mood": "serene",
+        "subtype": "unknown"
+      },
+      "fromVision": {
+        "description_ja": "穏やかな中世ファンタジーの街並み。ハーフティンバーの建物が並び、花や樽が飾られた石畳の通り。教会の尖塔が見える",
+        "description_en": "Serene medieval RPG town with half-timber houses, flower-decorated cobblestone street, barrels, church spire visible",
+        "tags": [
+          "街",
+          "中世",
+          "ハーフティンバー",
+          "花",
+          "石畳",
+          "樽",
+          "教会",
+          "穏やか",
+          "昼"
+        ],
+        "season": "summer",
+        "weather": "clear",
+        "architecture": "medieval",
+        "mood": "peaceful"
+      },
+      "subtype": "outdoor",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "serene",
+        "静寂",
+        "unknown",
+        "不明",
+        "街",
+        "中世",
+        "ハーフティンバー",
+        "花",
+        "石畳",
+        "樽",
+        "教会",
+        "穏やか",
+        "昼"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93T5DSZ5XSF6JF4FAP0E0",
+    "blob_path": "bg/9cadb3381f05f05c.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_landscape_a_fantasy_role_playing_game_A_remote_mountain...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": "mountain",
+        "timeOfDay": null,
+        "mood": "remote",
+        "subtype": "outdoor"
+      },
+      "fromVision": {
+        "description_ja": "雪を頂く山々を背景にした辺境の山村。川が流れ、木造の家々が点在する牧歌的な風景",
+        "description_en": "Remote mountain village with snow-capped peaks, flowing river, scattered wooden houses in a pastoral landscape",
+        "tags": [
+          "山",
+          "村",
+          "川",
+          "雪山",
+          "木造",
+          "牧歌的",
+          "辺境",
+          "自然",
+          "緑"
+        ],
+        "season": "summer",
+        "weather": "clear",
+        "architecture": "medieval",
+        "mood": "peaceful"
+      },
+      "subtype": "outdoor",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "mountain",
+        "山",
+        "remote",
+        "outdoor",
+        "屋外",
+        "村",
+        "川",
+        "雪山",
+        "木造",
+        "牧歌的",
+        "辺境",
+        "自然",
+        "緑"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93T0WF1HEWY8XRJ59A088",
+    "blob_path": "bg/b3199caa8d06ef07.webp",
+    "category": "bg",
+    "subcategory": "ファンタジー",
+    "filename": "bg/ファンタジー/mk18x_fantasy_role_playing_game_landscape_A_dark_and_ominous...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "location": null,
+        "timeOfDay": null,
+        "mood": "dark",
+        "subtype": "unknown"
+      },
+      "fromVision": {
+        "description_ja": "暗く不気味な地下遺跡。緑色に光る像が中央に鎮座し、壊れた柱と発光キノコが散在する。苔と水気が漂う",
+        "description_en": "Dark ominous underground ruins with green-glowing statue at center, broken pillars and luminescent mushrooms scattered around",
+        "tags": [
+          "ダンジョン",
+          "遺跡",
+          "緑の光",
+          "像",
+          "柱",
+          "キノコ",
+          "暗い",
+          "不気味",
+          "地下"
+        ],
+        "season": null,
+        "weather": null,
+        "architecture": "ancient",
+        "mood": "ominous"
+      },
+      "subtype": "dungeon",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "dark",
+        "暗い",
+        "unknown",
+        "不明",
+        "ダンジョン",
+        "遺跡",
+        "緑の光",
+        "像",
+        "柱",
+        "キノコ",
+        "不気味",
+        "地下"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93T5ZAE0CPSAHQ2VDWQH0",
+    "blob_path": "bg/6f66b14de7e5d9b7.webp",
+    "category": "bg",
+    "subcategory": "中国短尺ドラマ",
+    "filename": "bg/中国短尺ドラマ/mk18x_small_cozy_bedroom_modest_Japanese_apartment_simple_bed...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "chinese_drama",
+        "location": "bedroom",
+        "timeOfDay": null,
+        "mood": "cozy",
+        "subtype": "indoor"
+      },
+      "fromVision": {
+        "description_ja": "質素な日本のアパートの小さな寝室。ベッド、デスク、パソコン、本棚がぎっしり詰まった生活感のある空間。カーテンから光が差す",
+        "description_en": "Small cozy bedroom in modest Japanese apartment with bed, desk, computer, bookshelves packed tightly, curtains letting in light",
+        "tags": [
+          "寝室",
+          "アパート",
+          "デスク",
+          "パソコン",
+          "本棚",
+          "生活感",
+          "質素",
+          "昼",
+          "カーテン"
+        ],
+        "season": null,
+        "weather": null,
+        "architecture": "japanese",
+        "mood": "cozy"
+      },
+      "subtype": "indoor",
+      "tags": [
+        "chinese_drama",
+        "中国ドラマ",
+        "bedroom",
+        "寝室",
+        "cozy",
+        "くつろぎ",
+        "indoor",
+        "室内",
+        "アパート",
+        "デスク",
+        "パソコン",
+        "本棚",
+        "生活感",
+        "質素",
+        "昼",
+        "カーテン"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93T1V8JXPJW1XPKWEPYS0",
+    "blob_path": "bg/7a272c061b95160d.webp",
+    "category": "bg",
+    "subcategory": "中国短尺ドラマ",
+    "filename": "bg/中国短尺ドラマ/mk18x_modern_business_district_cityscape_luxury_skyscrapers_g...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "chinese_drama",
+        "location": "business_district",
+        "timeOfDay": null,
+        "mood": "luxury",
+        "subtype": "outdoor"
+      },
+      "fromVision": {
+        "description_ja": "近未来的なビジネス街。ガラス張りの超高層ビルが林立し、青白い光が反射する壮大な都市景観",
+        "description_en": "Futuristic business district with glass luxury skyscrapers, blue-white light reflections, grand urban cityscape",
+        "tags": [
+          "ビジネス街",
+          "高層ビル",
+          "ガラス",
+          "都市",
+          "近未来",
+          "壮大",
+          "青白い光"
+        ],
+        "season": null,
+        "weather": "clear",
+        "architecture": "modern",
+        "mood": "luxury"
+      },
+      "subtype": "outdoor",
+      "tags": [
+        "chinese_drama",
+        "中国ドラマ",
+        "business_district",
+        "ビジネス街",
+        "luxury",
+        "高級",
+        "outdoor",
+        "屋外",
+        "高層ビル",
+        "ガラス",
+        "都市",
+        "近未来",
+        "壮大",
+        "青白い光"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJK93SXJDZA4TNZGGDDRHPW0",
+    "blob_path": "bg/0ab7962d0f66160b.webp",
+    "category": "bg",
+    "subcategory": "中国短尺ドラマ",
+    "filename": "bg/中国短尺ドラマ/mk18x_luxury_CEO_office_interior_floor-to-ceiling_glass_windo...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "chinese_drama",
+        "location": "office",
+        "timeOfDay": null,
+        "mood": "luxury",
+        "subtype": "indoor"
+      },
+      "fromVision": {
+        "description_ja": "高級CEOオフィス。床から天井までのガラス窓から都市のスカイラインが一望。木製の大きなデスクとレザーチェア。開放的で洗練された空間",
+        "description_en": "Luxury CEO office with floor-to-ceiling glass windows overlooking city skyline, large wooden desk and leather chair, spacious refined space",
+        "tags": [
+          "オフィス",
+          "CEO",
+          "高級",
+          "ガラス窓",
+          "都市",
+          "デスク",
+          "レザーチェア",
+          "開放的",
+          "ビジネス"
+        ],
+        "season": null,
+        "weather": "clear",
+        "architecture": "modern",
+        "mood": "luxury"
+      },
+      "subtype": "indoor",
+      "tags": [
+        "chinese_drama",
+        "中国ドラマ",
+        "office",
+        "オフィス",
+        "luxury",
+        "高級",
+        "indoor",
+        "室内",
+        "CEO",
+        "ガラス窓",
+        "都市",
+        "デスク",
+        "レザーチェア",
+        "開放的",
+        "ビジネス"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2N6AEJ7EWBQFV4ABYAQGVT",
+    "blob_path": "ch/c1361f453053c78d.webp",
+    "category": "ch-img",
+    "subcategory": "ファンタジー",
+    "filename": "mk18x_original_fantasy_lumberjack_man_full_body_character_stand...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "role": "lumberjack",
+        "gender": "man",
+        "age": null,
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "筋肉質で髭のある木こりの男性。毛皮の衣服を身にまとい、右手に斧を持つ。茶色を基調とした力強い立ち絵",
+        "description_en": "Muscular bearded lumberjack man in fur clothing, holding an axe",
+        "hairColor": "brown",
+        "hairStyle": "short",
+        "outfit": "fur vest and leather pants",
+        "weapon": "axe",
+        "mood": "determined",
+        "bodyType": "muscular",
+        "background": "white",
+        "tags": [
+          "木こり",
+          "斧",
+          "筋肉",
+          "髭",
+          "毛皮",
+          "茶色",
+          "力強い"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "lumberjack",
+        "木こり",
+        "man",
+        "男性",
+        "npc",
+        "NPC",
+        "斧",
+        "筋肉",
+        "髭",
+        "毛皮",
+        "茶色",
+        "力強い"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2N6C0RJWFPAXC6HMQR7PVJ",
+    "blob_path": "ch/592d5c11346f88be.webp",
+    "category": "ch-img",
+    "subcategory": "ファンタジー",
+    "filename": "mk18x_original_fantasy_cursed_princess_boss_full_body_character...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "role": "princess",
+        "gender": null,
+        "age": null,
+        "trait": "cursed",
+        "subtype": "main"
+      },
+      "fromVision": {
+        "description_ja": "呪われた姫。黒いゴシック調のドレスにトゲのような装飾。紫と黒を基調とした威圧的な雰囲気",
+        "description_en": "Cursed princess in dark gothic dress with spike-like ornaments, purple and black color scheme",
+        "hairColor": "dark purple",
+        "hairStyle": "long wavy",
+        "outfit": "black gothic dress with spikes and ornate details",
+        "weapon": null,
+        "mood": "ominous",
+        "bodyType": "slim",
+        "background": "white",
+        "tags": [
+          "呪い",
+          "姫",
+          "ゴシック",
+          "黒",
+          "紫",
+          "ドレス",
+          "トゲ",
+          "威圧的",
+          "ボス"
+        ]
+      },
+      "subtype": "main",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "princess",
+        "姫",
+        "cursed",
+        "main",
+        "主要キャラ",
+        "呪い",
+        "ゴシック",
+        "黒",
+        "紫",
+        "ドレス",
+        "トゲ",
+        "威圧的",
+        "ボス"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2N6BQGJPK0ZT4TQ9DEAX3X",
+    "blob_path": "ch/ea3bdd76769cc046.webp",
+    "category": "ch-img",
+    "subcategory": "ファンタジー",
+    "filename": "mk18x_original_fantasy_village_chief_elderly_man_full_body...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "fantasy",
+        "role": "village_chief",
+        "gender": "man",
+        "age": "elderly",
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "白髪の老村長。杖をつき、装飾的なローブを身にまとう。穏やかで威厳のある佇まい",
+        "description_en": "Elderly white-haired village chief with walking cane and ornate robes, calm dignified presence",
+        "hairColor": "white",
+        "hairStyle": "long",
+        "outfit": "ornate blue and gold robes",
+        "weapon": null,
+        "mood": "calm",
+        "bodyType": "slim",
+        "background": "white",
+        "tags": [
+          "老人",
+          "白髪",
+          "杖",
+          "ローブ",
+          "村長",
+          "威厳",
+          "穏やか",
+          "金装飾"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "fantasy",
+        "ファンタジー",
+        "village_chief",
+        "村長",
+        "man",
+        "男性",
+        "elderly",
+        "老人",
+        "npc",
+        "NPC",
+        "白髪",
+        "杖",
+        "ローブ",
+        "威厳",
+        "穏やか",
+        "金装飾"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2TMANXYMV07G3966X58DP0",
+    "blob_path": "ch/4cd869a7d064ca73.webp",
+    "category": "ch-img",
+    "subcategory": "学園",
+    "filename": "公式アセット/学園/mk18x_modern_bus_driver_man_full_body_character_stand...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "school",
+        "role": "driver",
+        "gender": "man",
+        "age": null,
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "若いバスの運転手の男性。青い制服を着て、明るくフレンドリーな表情",
+        "description_en": "Young bus driver man in blue uniform with friendly cheerful expression",
+        "hairColor": "brown",
+        "hairStyle": "short",
+        "outfit": "blue bus driver uniform with cap",
+        "weapon": null,
+        "mood": "cheerful",
+        "bodyType": "average",
+        "background": "white",
+        "tags": [
+          "運転手",
+          "青",
+          "制服",
+          "笑顔",
+          "バス",
+          "フレンドリー"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "school",
+        "学園",
+        "driver",
+        "運転手",
+        "man",
+        "男性",
+        "npc",
+        "NPC",
+        "青",
+        "制服",
+        "笑顔",
+        "バス",
+        "フレンドリー"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2TMAPKQXG4BFZ3S5DWNQ8R",
+    "blob_path": "ch/9c11903b28a7352e.webp",
+    "category": "ch-img",
+    "subcategory": "学園",
+    "filename": "公式アセット/学園/mk18x_school_clinic_doctor_woman_full_body_character...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "school",
+        "role": "doctor",
+        "gender": "woman",
+        "age": null,
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "若い女性医師。白衣の下に青いワンピースを着用。茶色の髪をまとめている。優しげな表情",
+        "description_en": "Young female doctor in white coat over blue dress, brown hair tied back, gentle expression",
+        "hairColor": "brown",
+        "hairStyle": "ponytail",
+        "outfit": "white medical coat over blue dress",
+        "weapon": null,
+        "mood": "gentle",
+        "bodyType": "slim",
+        "background": "white",
+        "tags": [
+          "医師",
+          "白衣",
+          "青",
+          "茶髪",
+          "ポニーテール",
+          "優しい",
+          "女性"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "school",
+        "学園",
+        "doctor",
+        "医師",
+        "woman",
+        "女性",
+        "npc",
+        "NPC",
+        "白衣",
+        "青",
+        "茶髪",
+        "ポニーテール",
+        "優しい"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2TMANXYMV07G3966X58DP9",
+    "blob_path": "ch/30d5d65685e15d90.webp",
+    "category": "ch-img",
+    "subcategory": "学園",
+    "filename": "公式アセット/学園/mk18x_original_anime_transfer_student_girl_full_body_characte...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "school",
+        "role": "transfer_student",
+        "gender": "girl",
+        "age": null,
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "転校生の少女。長い黒髪に青い瞳。茶色のカーディガンにチェック柄のプリーツスカート。どこかミステリアスな雰囲気",
+        "description_en": "Transfer student girl with long dark hair, blue eyes, brown cardigan over plaid pleated skirt, slightly mysterious aura",
+        "hairColor": "dark gray",
+        "hairStyle": "long straight",
+        "outfit": "brown cardigan, white shirt with bow tie, plaid pleated skirt, knee-high socks",
+        "weapon": null,
+        "mood": "mysterious",
+        "bodyType": "slim",
+        "background": "white",
+        "tags": [
+          "転校生",
+          "黒髪",
+          "青い目",
+          "カーディガン",
+          "制服",
+          "プリーツスカート",
+          "ミステリアス",
+          "少女"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "school",
+        "学園",
+        "transfer_student",
+        "転校生",
+        "girl",
+        "少女",
+        "npc",
+        "NPC",
+        "黒髪",
+        "青い目",
+        "カーディガン",
+        "制服",
+        "プリーツスカート",
+        "ミステリアス"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2VAC5RJXFY10YKDHD7S057",
+    "blob_path": "ch/2a7e31089ebc0759.webp",
+    "category": "ch-img",
+    "subcategory": "政治",
+    "filename": "test/政治/mk18x_modern_japanese_convenience_store_clerk_full_body_chara...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "politics",
+        "role": "store_clerk",
+        "gender": null,
+        "age": null,
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "コンビニ店員の女性。ショートの茶髪にネイビーのエプロン。明るい笑顔で接客する姿",
+        "description_en": "Female convenience store clerk with short brown hair, navy apron over light blue polo shirt, bright smile",
+        "hairColor": "brown",
+        "hairStyle": "short bob",
+        "outfit": "navy apron over light blue polo shirt, white shoes",
+        "weapon": null,
+        "mood": "cheerful",
+        "bodyType": "average",
+        "background": "white",
+        "tags": [
+          "コンビニ",
+          "店員",
+          "エプロン",
+          "茶髪",
+          "笑顔",
+          "ネイビー",
+          "接客"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "politics",
+        "政治",
+        "store_clerk",
+        "店員",
+        "npc",
+        "NPC",
+        "コンビニ",
+        "エプロン",
+        "茶髪",
+        "笑顔",
+        "ネイビー",
+        "接客"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2VACX61F62C3CEAWDJTJ8Q",
+    "blob_path": "ch/37e46867a6b6b597.webp",
+    "category": "ch-img",
+    "subcategory": "政治",
+    "filename": "test/政治/mk18x_modern_japanese_female_policy_analyst_official_full_bod...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "politics",
+        "role": "policy_analyst",
+        "gender": "female",
+        "age": null,
+        "trait": null,
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "女性政策アナリスト。茶色のビジネススーツに白いブラウス。書類フォルダを抱えた知的な佇まい。イヤリングがアクセント",
+        "description_en": "Female policy analyst in brown business suit with white blouse, holding document folder, intellectual presence with earring accents",
+        "hairColor": "brown",
+        "hairStyle": "ponytail",
+        "outfit": "brown skirt suit, white blouse, heels",
+        "weapon": null,
+        "mood": "confident",
+        "bodyType": "slim",
+        "background": "white",
+        "tags": [
+          "政策",
+          "アナリスト",
+          "スーツ",
+          "茶色",
+          "知的",
+          "フォルダ",
+          "ビジネス",
+          "イヤリング"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "politics",
+        "政治",
+        "policy_analyst",
+        "政策アナリスト",
+        "female",
+        "女性",
+        "npc",
+        "NPC",
+        "政策",
+        "アナリスト",
+        "スーツ",
+        "茶色",
+        "知的",
+        "フォルダ",
+        "ビジネス",
+        "イヤリング"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2VMFXP5AQJ2ZM5C2P2PDHZ",
+    "blob_path": "ch/84fe121d0bc6ff29.webp",
+    "category": "ch-img",
+    "subcategory": "中国短尺ドラマ",
+    "filename": "test/中国短尺ドラマ/mk18x_mysterious_elegant_woman_in_dark_dress_full_body_facing...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "chinese_drama",
+        "role": null,
+        "gender": "woman",
+        "age": null,
+        "trait": "mysterious",
+        "subtype": "npc"
+      },
+      "fromVision": {
+        "description_ja": "ミステリアスなエレガント美女。黒いイブニングドレスにスリット。長い黒髪が流れるように垂れる。イヤリングの輝き",
+        "description_en": "Mysterious elegant woman in black evening gown with high slit, long flowing black hair, sparkling earrings",
+        "hairColor": "black",
+        "hairStyle": "long wavy",
+        "outfit": "black floor-length evening gown with thigh-high slit",
+        "weapon": null,
+        "mood": "mysterious",
+        "bodyType": "slim",
+        "background": "white",
+        "tags": [
+          "ミステリアス",
+          "エレガント",
+          "黒髪",
+          "イブニングドレス",
+          "スリット",
+          "美女",
+          "高級感"
+        ]
+      },
+      "subtype": "npc",
+      "tags": [
+        "chinese_drama",
+        "中国ドラマ",
+        "woman",
+        "女性",
+        "mysterious",
+        "ミステリアス",
+        "npc",
+        "NPC",
+        "エレガント",
+        "黒髪",
+        "イブニングドレス",
+        "スリット",
+        "美女",
+        "高級感"
+      ]
+    }
+  },
+  {
+    "asset_id": "01KJ2VMGD5313CGTBF7B1J6CGZ",
+    "blob_path": "ch/49395d9e0a035516.webp",
+    "category": "ch-img",
+    "subcategory": "中国短尺ドラマ",
+    "filename": "test/中国短尺ドラマ/mk18x_handsome_chinese_drama_male_lead_full_body_character_st...",
+    "metadata": {
+      "fromFilename": {
+        "genre": "chinese_drama",
+        "role": null,
+        "gender": "male",
+        "age": null,
+        "trait": "handsome",
+        "subtype": "main"
+      },
+      "fromVision": {
+        "description_ja": "ハンサムな中国ドラマ風の主人公男性。全身黒のスーツスタイル。短い黒髪にシャープな顔立ち。自信に満ちた直立姿勢",
+        "description_en": "Handsome Chinese drama male lead in all-black suit, short black hair, sharp features, confident standing posture",
+        "hairColor": "black",
+        "hairStyle": "short neat",
+        "outfit": "black suit with black shirt, black leather shoes",
+        "weapon": null,
+        "mood": "confident",
+        "bodyType": "athletic",
+        "background": "white",
+        "tags": [
+          "ハンサム",
+          "スーツ",
+          "黒",
+          "主人公",
+          "イケメン",
+          "シャープ",
+          "自信"
+        ]
+      },
+      "subtype": "main",
+      "tags": [
+        "chinese_drama",
+        "中国ドラマ",
+        "male",
+        "男性",
+        "handsome",
+        "ハンサム",
+        "main",
+        "主要キャラ",
+        "スーツ",
+        "黒",
+        "主人公",
+        "イケメン",
+        "シャープ",
+        "自信"
+      ]
+    }
+  }
+]

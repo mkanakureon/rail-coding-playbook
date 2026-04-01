@@ -1,0 +1,46 @@
+{
+  "asset_id": "01KJ2VAESTFJ3GH2RN6TH0K8W2",
+  "filename": "test/シルクロード/mk18x_pre-modern_mountain_herbalist_woman_from_Japan_full_bod_e82d3535-0a81-4956-a680-dc8e836f77ab_0 2.png",
+  "category": "ch-img",
+  "fromVision": {
+    "description_ja": "肩までの長さの茶色い髪と、同色の瞳を持つ若い女性。彼女はベージュ色の着物のような質素な服を着ており、腰にはロープと灰色の布を巻いている。服には土汚れが付着している。腕と足首には布を巻き、紐で結ばれたサンダルを履いている。背中にはバックパックのようなものを背負っているようだ。左腕には編まれたカゴに入った小さな緑の植物を抱えている。表情は穏やかで、まっすぐに前を見つめている。全体的に、旅人や村人のような素朴な雰囲気を持つキャラクターである。",
+    "description_en": "A young woman with shoulder-length brown hair and matching brown eyes. She is dressed in simple, peasant-like attire, consisting of a layered, beige kimono-style robe and skirt, which are stained with dirt. Her waist is cinched with a rope and a grey cloth sash. She wears wraps on her forearms and ankles, and simple, strapped sandals on her feet. Straps over her shoulders suggest she is wearing a backpack. In her left arm, she holds a small green plant in a woven basket. Her expression is calm and neutral as she looks directly forward. The overall impression is that of a traveler, villager, or herbalist in a rustic or fantasy setting.",
+    "gender": "woman",
+    "age": "young",
+    "hairColor": "brown",
+    "hairStyle": "shoulder-length",
+    "outfit": "A simple, layered, beige kimono-style robe and skirt, stained with dirt. It is cinched with a rope and a grey sash. She also wears wraps on her forearms and ankles, and strapped sandals.",
+    "weapon": null,
+    "expression": "calm",
+    "bodyType": "slim",
+    "objects": [
+      "plant",
+      "woven basket",
+      "rope belt",
+      "sandals",
+      "backpack"
+    ],
+    "tags": [
+      "anime",
+      "young woman",
+      "brown hair",
+      "brown eyes",
+      "peasant",
+      "traveler",
+      "herbalist",
+      "holding plant",
+      "sandals",
+      "fantasy",
+      "アニメ",
+      "若い女性",
+      "茶髪",
+      "茶色の目",
+      "村人",
+      "旅人",
+      "薬草師",
+      "植物を持つ",
+      "サンダル",
+      "ファンタジー"
+    ]
+  }
+}
