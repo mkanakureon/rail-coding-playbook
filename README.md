@@ -34,6 +34,7 @@
 ### メイン・プレイブック (分冊版)
 AIを自律稼働させるための具体的な6段階のライフサイクルと、その哲学。
 - **[【コラム】ガードレールなき「初日1万行」の罠](./docs/playbook/column_day1_10k_myth.md)**
+- **[【コラム】AI監査役から見た「Rail Coding」の真価](./docs/playbook/column_ai_perspective.md)**
 - **[第1部：環境構築と設計フェーズ](./chapters/01_chapter_0-3_setup_and_planning.md)**
 - **[第2部：実装・テスト・監査フェーズ](./chapters/02_chapter_4-6_implementation_and_nocli.md)**
 - **[第3部：AI設定・スキル完全リファレンス](./chapters/03_chapter_appendix_ai_config_and_skills.md)**
